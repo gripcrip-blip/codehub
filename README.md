@@ -2,7 +2,7 @@
 
 Fan-made aggregator of HoYoverse promo codes. No ads. No accounts. No backend.
 
-Promo codes live in `data/codes.json`. A Python parser fills that file from public sources; GitHub Actions commits updates so the site can rebuild (Netlify/Vercel) automatically.
+Promo codes live in `data/codes.json`. A Python parser fills that file from public sources. GitHub Actions runs the parser every day, commits updates, and deploys the site to [Netlify](https://gripcrip-codehub.netlify.app).
 
 ## Run locally
 
@@ -25,7 +25,7 @@ No extra Python packages. From the repo root:
 python parser/update_codes.py
 ```
 
-It writes `data/codes.json`. Codes are collected, not verified. The GitHub Action `.github/workflows/update-codes.yml` runs every 3 hours and on demand.
+It writes `data/codes.json`. Codes are collected, not verified. The GitHub Action `.github/workflows/update-codes.yml` runs every day at 09:00 Moscow time, on demand, and deploys the site when the data changes.
 
 ## Languages
 

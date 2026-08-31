@@ -1,0 +1,9 @@
+# Netlify picks up Next.js automatically (OpenNext adapter).
+
+[build]
+  command = "npm run build"
+  publish = ".next"
+
+[build.environment]
+  NODE_VERSION = "22"
+  NEXT_PUBLIC_SITE_URL = "https://gripcrip-codehub.netlify.app"
