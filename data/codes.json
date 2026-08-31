@@ -1,7 +1,18 @@
 {
   "demo": false,
-  "updatedAt": "2026-08-31T08:16:34Z",
+  "updatedAt": "2026-08-31T08:17:31Z",
   "codes": [
+    {
+      "id": "afk-journey-afkjourneytt",
+      "code": "AFKJourneyTT",
+      "game": "afk-journey",
+      "foundAt": "2026-08-31T08:17:29Z",
+      "source": {
+        "name": "Fandom Wiki",
+        "url": "https://afk-journey.fandom.com/wiki/Redemption_Code"
+      },
+      "reward": "===Expired=== {|class=\"wikitable\" style=\"margin: 0 auto + border: 2px solid #89642d + font-family: Arial, sans-serif + text-align: left + padding: 10px + line-height: 1.4 + \""
+    },
     {
       "id": "afk-journey-afkjourneyzekiapax",
       "code": "AFKJourneyZekiaPax",
@@ -936,16 +947,6 @@
     {
       "id": "afk-journey-afkjnewseason",
       "code": "AFKJNEWSEASON",
-      "game": "afk-journey",
-      "foundAt": "2026-08-31T08:13:58Z",
-      "source": {
-        "name": "Fandom Wiki",
-        "url": "https://afk-journey.fandom.com/wiki/Redemption_Code"
-      }
-    },
-    {
-      "id": "afk-journey-afkjn2024",
-      "code": "AFKJN2024",
       "game": "afk-journey",
       "foundAt": "2026-08-31T08:13:58Z",
       "source": {
