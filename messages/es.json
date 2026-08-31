@@ -1,0 +1,123 @@
+{
+  "meta": {
+    "homeTitle": "Códigos de HoYoverse — todos los códigos recientes en un solo lugar",
+    "homeDescription": "Encuentra los códigos promocionales de HoYoverse sin anuncios ni relleno. Copia al instante códigos de Genshin Impact, Honkai: Star Rail, Zenless Zone Zero y más.",
+    "gameTitle": "Códigos de {game} — códigos promocionales recientes",
+    "gameDescription": "Encuentra los códigos promocionales más recientes de {game} y sus recompensas. Cópialos al instante y mira cuándo se encontraron.",
+    "aboutTitle": "Acerca de — CODEHUB",
+    "aboutDescription": "CODEHUB es un agregador hecho por fans de códigos promocionales de HoYoverse. Sin anuncios ni ruido: solo códigos.",
+    "disclaimerTitle": "Aviso legal — CODEHUB",
+    "disclaimerDescription": "CODEHUB es un proyecto independiente hecho por fans y no está afiliado a HoYoverse.",
+    "privacyTitle": "Privacidad — CODEHUB",
+    "privacyDescription": "CODEHUB no recopila datos personales, no muestra anuncios y no usa cookies de seguimiento.",
+    "notFoundTitle": "Página no encontrada — CODEHUB",
+    "notFoundDescription": "Esta página no existe."
+  },
+  "brand": {
+    "name": "CODEHUB",
+    "tagline": "Códigos HoYoverse"
+  },
+  "nav": {
+    "home": "Inicio",
+    "games": "Juegos",
+    "about": "Acerca de",
+    "search": "Buscar",
+    "searchPlaceholder": "Busca un juego o un código",
+    "searchNoResults": "Sin resultados",
+    "searchGames": "Juegos",
+    "searchCodes": "Códigos",
+    "privacy": "Privacidad",
+    "disclaimer": "Aviso legal",
+    "close": "Cerrar",
+    "language": "Idioma"
+  },
+  "hero": {
+    "title": "Códigos promocionales de HoYoverse",
+    "subtitle": "Todos los códigos recientes en un solo lugar. Sin anuncios. Sin ruido.",
+    "cta": "Elige tu juego",
+    "accent": "Sin anuncios. Solo códigos."
+  },
+  "games": {
+    "heading": "Juegos",
+    "featured": "Destacados",
+    "more": "Más juegos",
+    "new": "Nuevo",
+    "comingSoon": "Próximamente",
+    "open": "Ver códigos"
+  },
+  "codes": {
+    "latest": "Códigos promocionales recientes",
+    "recentlyFound": "Códigos encontrados hace poco",
+    "new": "NUEVO",
+    "copy": "Copiar",
+    "copied": "Copiado ✓",
+    "source": "Fuente",
+    "disclaimer": "Los códigos se recogen de varias fuentes. Algunos pueden haber caducado o dejar de funcionar.",
+    "demoBanner": "Datos de demostración. Estos códigos son ejemplos, no códigos reales.",
+    "emptyTitle": "Todavía no hay nada.",
+    "emptyBody": "Vuelve más tarde: los códigos nuevos se añaden automáticamente.",
+    "homeLatest": "Lo más reciente de todos los juegos",
+    "pageHeading": "Códigos de {game}",
+    "pageIntro": "Encuentra los códigos promocionales más recientes de {game}, las recompensas y cómo canjearlos, todo en un solo lugar."
+  },
+  "redeem": {
+    "title": "Cómo canjear códigos",
+    "heading": "Cómo canjear códigos de {game}",
+    "step1": "Copia el código promocional.",
+    "step2": "Abre la página oficial de canje de {game}",
+    "step3": "Inicia sesión con tu cuenta de HoYoverse.",
+    "step4": "Selecciona tu servidor y personaje y pega el código.",
+    "step5": "Reclama las recompensas en el correo del juego.",
+    "clickableHint": "(enlace clicable)",
+    "official": "Abrir la página oficial de canje",
+    "officialSite": "Sitio oficial del juego",
+    "inGameOnly": "Honkai Impact 3rd no tiene página web oficial de canje. Los códigos se canjean dentro del juego.",
+    "inGameAlt": "En el juego:",
+    "noWebYet": "HoYoverse aún no ha publicado una página web oficial de canje para este juego. Consulta el sitio oficial o canjea el código en el juego si aparece esa opción.",
+    "ingameSteps": {
+      "honkai-impact-3rd": [
+        "Copia el código promocional.",
+        "Abre Honkai Impact 3rd e inicia sesión.",
+        "Toca tu nombre en la esquina superior izquierda del Puente.",
+        "Abre Cuenta y busca Exchange Rewards.",
+        "Pega el código y pulsa Get."
+      ]
+    },
+    "inGame": {
+      "genshin-impact": "menú de Paimon → Ajustes → Cuenta → Canjear código.",
+      "honkai-star-rail": "menú del teléfono → Canjear código. En iOS usa la web.",
+      "zenless-zone-zero": "menú → Más → Código de canje. Se desbloquea tras el prólogo.",
+      "honkai-impact-3rd": "avatar → Cuenta → Canjear recompensas.",
+      "tears-of-themis": "Tras un canje correcto en la web, las recompensas llegan al correo del juego.",
+      "honkai-nexus-anima": "Si aparece la opción de canje, búscala en el menú de cuenta o ajustes.",
+      "petit-planet": "Si aparece la opción de canje, búscala en el menú de cuenta o ajustes."
+    }
+  },
+  "footer": {
+    "unofficial": "Proyecto no oficial hecho por fans.",
+    "notAffiliated": "No está afiliado a HoYoverse.",
+    "trademarks": "HoYoverse y todos los nombres de juegos relacionados son marcas de sus respectivos titulares."
+  },
+  "about": {
+    "title": "Acerca de",
+    "p1": "Un solo lugar para los códigos promocionales de HoYoverse, sin anuncios, sin relleno y sin scroll infinito.",
+    "p2": "Elige un juego, copia un código y vete. Eso es todo el producto.",
+    "p3": "Los códigos se agregan desde fuentes públicas. No comprobamos si un código sigue activo: solo anotamos cuándo se encontró."
+  },
+  "disclaimer": {
+    "title": "Aviso legal",
+    "p1": "Este sitio es un proyecto independiente hecho por fans y no está afiliado, patrocinado ni respaldado por HoYoverse.",
+    "p2": "Los códigos promocionales se recogen de fuentes de acceso público. No garantizamos que cada código listado sea válido ahora mismo.",
+    "p3": "Canjea siempre los códigos en el sitio oficial de HoYoverse o dentro del juego. No introduzcas tu contraseña en páginas no oficiales."
+  },
+  "privacy": {
+    "title": "Privacidad",
+    "p1": "Este sitio no muestra anuncios, no usa píxeles de analítica y no tiene cuentas de usuario.",
+    "p2": "La búsqueda y la copia se ejecutan en tu navegador. No recopilamos datos personales para mostrar los códigos."
+  },
+  "notFound": {
+    "title": "Página no encontrada",
+    "body": "Esta página no existe. Elige un juego de la lista.",
+    "back": "Volver al inicio"
+  }
+}

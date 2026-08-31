@@ -1,0 +1,123 @@
+{
+  "meta": {
+    "homeTitle": "HoYoverse Promo Codes — Latest Game Codes in One Place",
+    "homeDescription": "Find the latest HoYoverse promo codes without ads or clutter. Copy codes instantly for Genshin Impact, Honkai: Star Rail, Zenless Zone Zero and more.",
+    "gameTitle": "{game} Codes — Latest Promo Codes",
+    "gameDescription": "Find the latest {game} promo codes and rewards. Copy codes instantly and check when they were found.",
+    "aboutTitle": "About — CODEHUB",
+    "aboutDescription": "CODEHUB is a fan-made aggregator of HoYoverse promo codes. No ads, no clutter — just codes.",
+    "disclaimerTitle": "Disclaimer — CODEHUB",
+    "disclaimerDescription": "CODEHUB is an independent fan-made project and is not affiliated with HoYoverse.",
+    "privacyTitle": "Privacy — CODEHUB",
+    "privacyDescription": "CODEHUB does not collect personal data, show ads, or use tracking cookies.",
+    "notFoundTitle": "Page not found — CODEHUB",
+    "notFoundDescription": "This page does not exist."
+  },
+  "brand": {
+    "name": "CODEHUB",
+    "tagline": "HoYoverse Codes"
+  },
+  "nav": {
+    "home": "Home",
+    "games": "Games",
+    "about": "About",
+    "search": "Search",
+    "searchPlaceholder": "Search a game or code",
+    "searchNoResults": "No results",
+    "searchGames": "Games",
+    "searchCodes": "Codes",
+    "privacy": "Privacy",
+    "disclaimer": "Disclaimer",
+    "close": "Close",
+    "language": "Language"
+  },
+  "hero": {
+    "title": "HoYoverse Promo Codes",
+    "subtitle": "All the latest game codes in one place. No ads. No clutter.",
+    "cta": "Find your game",
+    "accent": "No ads. Just codes."
+  },
+  "games": {
+    "heading": "Games",
+    "featured": "Popular",
+    "more": "More games",
+    "new": "New",
+    "comingSoon": "Coming soon",
+    "open": "Open codes"
+  },
+  "codes": {
+    "latest": "Latest promo codes",
+    "recentlyFound": "Recently found codes",
+    "new": "NEW",
+    "copy": "Copy",
+    "copied": "Copied ✓",
+    "source": "Source",
+    "disclaimer": "Codes are collected from multiple sources. Some codes may expire or stop working.",
+    "demoBanner": "Demo data. These codes are examples and are not real promo codes.",
+    "emptyTitle": "Nothing found yet.",
+    "emptyBody": "Check back later — new codes are added automatically.",
+    "homeLatest": "Latest across games",
+    "pageHeading": "{game} Codes",
+    "pageIntro": "Find the latest {game} promo codes, rewards and redemption information in one place."
+  },
+  "redeem": {
+    "title": "How to redeem codes",
+    "heading": "How to redeem {game} codes",
+    "step1": "Copy the promo code.",
+    "step2": "Open the official {game} redemption page",
+    "step3": "Log in with your HoYoverse account.",
+    "step4": "Select your server and character, then paste the code.",
+    "step5": "Collect the rewards from in-game mail.",
+    "clickableHint": "(clickable link)",
+    "official": "Open official redemption page",
+    "officialSite": "Official game website",
+    "inGameOnly": "Honkai Impact 3rd has no official web redemption page. Codes are redeemed inside the game.",
+    "inGameAlt": "In-game alternative:",
+    "noWebYet": "HoYoverse has not published an official web redemption page for this game yet. Check the official site for updates, or redeem in-game if that option appears.",
+    "ingameSteps": {
+      "honkai-impact-3rd": [
+        "Copy the promo code.",
+        "Open Honkai Impact 3rd and log in.",
+        "Tap your name in the top-left corner of the Bridge.",
+        "Open Account and find Exchange Rewards.",
+        "Paste the code and tap Get."
+      ]
+    },
+    "inGame": {
+      "genshin-impact": "Paimon Menu → Settings → Account → Redeem Code.",
+      "honkai-star-rail": "Phone menu → Redeem Code. On iOS, use the website.",
+      "zenless-zone-zero": "Menu → More → Redemption Code. Unlocks after the prologue.",
+      "honkai-impact-3rd": "Avatar → Account → Exchange Rewards.",
+      "tears-of-themis": "Rewards arrive in your in-game mailbox after a successful web redemption.",
+      "honkai-nexus-anima": "If a redeem option appears, look in the in-game account or settings menu.",
+      "petit-planet": "If a redeem option appears, look in the in-game account or settings menu."
+    }
+  },
+  "footer": {
+    "unofficial": "Unofficial fan-made project.",
+    "notAffiliated": "Not affiliated with HoYoverse.",
+    "trademarks": "HoYoverse and all related game names are trademarks of their respective owners."
+  },
+  "about": {
+    "title": "About",
+    "p1": "One place for HoYoverse promo codes without ads, clutter and endless scrolling.",
+    "p2": "Pick a game, copy a code, leave. That is the whole product.",
+    "p3": "Codes are aggregated from public sources. We do not check whether a code still works — we only record when it was found."
+  },
+  "disclaimer": {
+    "title": "Disclaimer",
+    "p1": "This website is an independent fan-made project and is not affiliated with, sponsored by, or endorsed by HoYoverse.",
+    "p2": "Promo codes are collected from publicly available sources. We do not guarantee that every listed code is currently valid.",
+    "p3": "Always redeem codes on the official HoYoverse website or inside the game. Do not enter your password on unofficial pages."
+  },
+  "privacy": {
+    "title": "Privacy",
+    "p1": "This site does not run ads, analytics pixels, or user accounts.",
+    "p2": "Search and copy run in your browser. We do not collect personal data to show promo codes."
+  },
+  "notFound": {
+    "title": "Page not found",
+    "body": "This page does not exist. Pick a game from the list.",
+    "back": "Back to home"
+  }
+}

@@ -1,0 +1,41 @@
+name: Update promo codes
+
+on:
+  schedule:
+    - cron: "20 */3 * * *"
+  workflow_dispatch:
+  push:
+    branches: [main]
+    paths:
+      - "parser/**"
+      - ".github/workflows/update-codes.yml"
+
+permissions:
+  contents: write
+
+jobs:
+  update-codes:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v4
+
+      - name: Setup Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+
+      - name: Collect codes
+        run: python parser/update_codes.py
+
+      - name: Commit data/codes.json
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add data/codes.json
+          if git diff --cached --quiet; then
+            echo "No code changes"
+            exit 0
+          fi
+          git commit -m "chore: update promo codes from public sources"
+          git push

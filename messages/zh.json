@@ -1,0 +1,123 @@
+{
+  "meta": {
+    "homeTitle": "HoYoverse 兑换码 — 最新游戏兑换码一站汇总",
+    "homeDescription": "没有广告、没有灌水。一键复制 Genshin Impact、Honkai: Star Rail、Zenless Zone Zero 等 HoYoverse 游戏的最新兑换码。",
+    "gameTitle": "{game} 兑换码 — 最新促销码",
+    "gameDescription": "查找最新的 {game} 兑换码与奖励。一键复制，并查看发现时间。",
+    "aboutTitle": "关于 — CODEHUB",
+    "aboutDescription": "CODEHUB 是由玩家制作的 HoYoverse 兑换码汇总站。没有广告，没有干扰，只有兑换码。",
+    "disclaimerTitle": "免责声明 — CODEHUB",
+    "disclaimerDescription": "CODEHUB 是独立的玩家项目，与 HoYoverse 没有任何从属关系。",
+    "privacyTitle": "隐私 — CODEHUB",
+    "privacyDescription": "CODEHUB 不收集个人数据，不展示广告，也不使用跟踪 Cookie。",
+    "notFoundTitle": "页面不存在 — CODEHUB",
+    "notFoundDescription": "该页面不存在。"
+  },
+  "brand": {
+    "name": "CODEHUB",
+    "tagline": "HoYoverse 兑换码"
+  },
+  "nav": {
+    "home": "首页",
+    "games": "游戏",
+    "about": "关于",
+    "search": "搜索",
+    "searchPlaceholder": "搜索游戏或兑换码",
+    "searchNoResults": "没有结果",
+    "searchGames": "游戏",
+    "searchCodes": "兑换码",
+    "privacy": "隐私",
+    "disclaimer": "免责声明",
+    "close": "关闭",
+    "language": "语言"
+  },
+  "hero": {
+    "title": "HoYoverse 兑换码",
+    "subtitle": "把最新的游戏兑换码集中在一处。没有广告，没有干扰。",
+    "cta": "选择游戏",
+    "accent": "没有广告，只有兑换码。"
+  },
+  "games": {
+    "heading": "游戏",
+    "featured": "热门",
+    "more": "更多游戏",
+    "new": "新作",
+    "comingSoon": "即将推出",
+    "open": "查看兑换码"
+  },
+  "codes": {
+    "latest": "最新兑换码",
+    "recentlyFound": "近期发现的兑换码",
+    "new": "新",
+    "copy": "复制",
+    "copied": "已复制 ✓",
+    "source": "来源",
+    "disclaimer": "兑换码来自多个公开渠道。部分兑换码可能已经过期或失效。",
+    "demoBanner": "演示数据。这里的兑换码仅为示例，并非真实可用的兑换码。",
+    "emptyTitle": "暂时还没有内容。",
+    "emptyBody": "稍后再来看看——新兑换码会自动添加。",
+    "homeLatest": "各游戏最新兑换码",
+    "pageHeading": "{game} 兑换码",
+    "pageIntro": "在这里查看最新的 {game} 兑换码、奖励以及兑换说明。"
+  },
+  "redeem": {
+    "title": "如何兑换",
+    "heading": "如何兑换 {game} 兑换码",
+    "step1": "复制兑换码。",
+    "step2": "打开 {game} 的官方兑换页面",
+    "step3": "登录你的 HoYoverse 账号。",
+    "step4": "选择服务器和角色，然后粘贴兑换码。",
+    "step5": "回到游戏邮件中领取奖励。",
+    "clickableHint": "(可点击链接)",
+    "official": "打开官方兑换页面",
+    "officialSite": "游戏官网",
+    "inGameOnly": "Honkai Impact 3rd 没有官方网页兑换入口。兑换码需要在游戏内使用。",
+    "inGameAlt": "游戏内也可以：",
+    "noWebYet": "HoYoverse 尚未为该游戏开放官方网页兑换入口。请关注官网动态，或在游戏内出现兑换选项时使用。",
+    "ingameSteps": {
+      "honkai-impact-3rd": [
+        "复制兑换码。",
+        "打开 Honkai Impact 3rd 并登录。",
+        "点击左上角的角色名。",
+        "进入账户，找到兑换奖励。",
+        "粘贴兑换码并点击 Get。"
+      ]
+    },
+    "inGame": {
+      "genshin-impact": "派蒙菜单 → 设置 → 账户 → 兑换码。",
+      "honkai-star-rail": "手机菜单 → 兑换码。iOS 请使用网页。",
+      "zenless-zone-zero": "菜单 → 更多 → 兑换码。完成序章后解锁。",
+      "honkai-impact-3rd": "头像 → 账户 → 兑换奖励。",
+      "tears-of-themis": "网页兑换成功后，奖励会发送到游戏内邮件。",
+      "honkai-nexus-anima": "若游戏内出现兑换入口，请在账户或设置菜单中查找。",
+      "petit-planet": "若游戏内出现兑换入口，请在账户或设置菜单中查找。"
+    }
+  },
+  "footer": {
+    "unofficial": "非官方玩家项目。",
+    "notAffiliated": "与 HoYoverse 无关。",
+    "trademarks": "HoYoverse 及所有相关游戏名称均为其权利人的商标。"
+  },
+  "about": {
+    "title": "关于",
+    "p1": "没有广告，没有灌水文章。把 HoYoverse 游戏兑换码集中在一个地方。",
+    "p2": "选游戏、复制兑换码、离开。产品就是这么简单。",
+    "p3": "兑换码来自公开渠道。我们不验证兑换码当前是否有效，只记录它被发现的时间。"
+  },
+  "disclaimer": {
+    "title": "免责声明",
+    "p1": "本网站是独立的玩家项目，与 HoYoverse 不存在从属、赞助或官方授权关系。",
+    "p2": "兑换码收集自公开可获取的来源。我们不保证列表中的每个兑换码当前仍然有效。",
+    "p3": "请务必在 HoYoverse 官方网站或游戏内兑换。不要在非官方页面输入密码。"
+  },
+  "privacy": {
+    "title": "隐私",
+    "p1": "本站不投放广告，不使用分析像素，也没有用户账号。",
+    "p2": "搜索和复制都在你的浏览器中完成。展示兑换码无需收集个人数据。"
+  },
+  "notFound": {
+    "title": "页面不存在",
+    "body": "没有这个页面。请从列表中选择一款游戏。",
+    "back": "返回首页"
+  }
+}

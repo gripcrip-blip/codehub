@@ -1,0 +1,123 @@
+{
+  "meta": {
+    "homeTitle": "HoYoverse ギフトコード — 最新コードを一箇所に",
+    "homeDescription": "広告も余計な文章もなく、Genshin Impact、Honkai: Star Rail、Zenless Zone Zero など HoYoverse の最新ギフトコードをすぐコピーできます。",
+    "gameTitle": "{game} のコード — 最新ギフトコード",
+    "gameDescription": "{game} の最新ギフトコードと報酬をまとめて確認。ワンクリックでコピーし、発見日時もわかります。",
+    "aboutTitle": "このサイトについて — CODEHUB",
+    "aboutDescription": "CODEHUB はファン制作の HoYoverse ギフトコードまとめです。広告なし、ノイズなし、コードだけ。",
+    "disclaimerTitle": "免責事項 — CODEHUB",
+    "disclaimerDescription": "CODEHUB は独立したファンプロジェクトであり、HoYoverse とは関係ありません。",
+    "privacyTitle": "プライバシー — CODEHUB",
+    "privacyDescription": "CODEHUB は個人データを収集せず、広告もトラッキング Cookie も使いません。",
+    "notFoundTitle": "ページが見つかりません — CODEHUB",
+    "notFoundDescription": "このページは存在しません。"
+  },
+  "brand": {
+    "name": "CODEHUB",
+    "tagline": "HoYoverse コード"
+  },
+  "nav": {
+    "home": "ホーム",
+    "games": "ゲーム",
+    "about": "このサイトについて",
+    "search": "検索",
+    "searchPlaceholder": "ゲーム名またはコードを検索",
+    "searchNoResults": "該当なし",
+    "searchGames": "ゲーム",
+    "searchCodes": "コード",
+    "privacy": "プライバシー",
+    "disclaimer": "免責事項",
+    "close": "閉じる",
+    "language": "言語"
+  },
+  "hero": {
+    "title": "HoYoverse ギフトコード",
+    "subtitle": "最新のギフトコードを一箇所に。広告なし、余計な情報なし。",
+    "cta": "ゲームを選ぶ",
+    "accent": "広告なし。コードだけ。"
+  },
+  "games": {
+    "heading": "ゲーム",
+    "featured": "人気",
+    "more": "その他のゲーム",
+    "new": "新作",
+    "comingSoon": "近日公開",
+    "open": "コードを見る"
+  },
+  "codes": {
+    "latest": "最新のギフトコード",
+    "recentlyFound": "最近確認されたコード",
+    "new": "新着",
+    "copy": "コピー",
+    "copied": "コピーしました ✓",
+    "source": "出典",
+    "disclaimer": "コードは複数の公開情報から集めています。期限切れや無効になっている場合があります。",
+    "demoBanner": "デモデータです。表示されているコードは実在しないサンプルです。",
+    "emptyTitle": "まだ何もありません。",
+    "emptyBody": "また後で確認してください。新しいコードは自動で追加されます。",
+    "homeLatest": "全ゲームの最新コード",
+    "pageHeading": "{game} のコード",
+    "pageIntro": "{game} の最新ギフトコード、報酬、交換方法を一箇所で確認できます。"
+  },
+  "redeem": {
+    "title": "コードの交換方法",
+    "heading": "{game} のコード交換方法",
+    "step1": "ギフトコードをコピーする。",
+    "step2": "{game} の公式交換ページを開く",
+    "step3": "HoYoverse アカウントでログインする。",
+    "step4": "サーバーとキャラクターを選び、コードを貼り付ける。",
+    "step5": "ゲーム内メールから報酬を受け取る。",
+    "clickableHint": "(クリックできるリンク)",
+    "official": "公式の交換ページを開く",
+    "officialSite": "公式サイト",
+    "inGameOnly": "Honkai Impact 3rd には公式のウェブ交換ページがありません。コードはゲーム内で入力します。",
+    "inGameAlt": "ゲーム内でも：",
+    "noWebYet": "HoYoverse はこのゲームの公式ウェブ交換ページをまだ公開していません。公式サイトの更新を確認するか、ゲーム内に交換項目が出たらそこから入力してください。",
+    "ingameSteps": {
+      "honkai-impact-3rd": [
+        "ギフトコードをコピーする。",
+        "Honkai Impact 3rd を起動してログインする。",
+        "画面左上の名前をタップする。",
+        "アカウントを開き、報酬交換を探す。",
+        "コードを貼り付けて Get を押す。"
+      ]
+    },
+    "inGame": {
+      "genshin-impact": "パイモンメニュー → 設定 → アカウント → ギフトコード。",
+      "honkai-star-rail": "スマホメニュー → ギフトコード。iOS は公式サイトを使う。",
+      "zenless-zone-zero": "メニュー → その他 → ギフトコード。プロローグ後に解放。",
+      "honkai-impact-3rd": "アバター → アカウント → 報酬交換。",
+      "tears-of-themis": "ウェブ交換が完了すると、報酬はゲーム内メールに届きます。",
+      "honkai-nexus-anima": "ゲーム内に交換項目が出たら、アカウントまたは設定メニューを確認してください。",
+      "petit-planet": "ゲーム内に交換項目が出たら、アカウントまたは設定メニューを確認してください。"
+    }
+  },
+  "footer": {
+    "unofficial": "非公式のファンプロジェクトです。",
+    "notAffiliated": "HoYoverse とは関係ありません。",
+    "trademarks": "HoYoverse および関連するゲーム名は、各権利者の商標です。"
+  },
+  "about": {
+    "title": "このサイトについて",
+    "p1": "広告も余計な文章もなく、HoYoverse のギフトコードを一箇所にまとめたサイトです。",
+    "p2": "ゲームを選んで、コードをコピーして、閉じる。それがすべてです。",
+    "p3": "コードは公開情報から集めています。現在も有効かどうかは確認していません。記録しているのは発見日時だけです。"
+  },
+  "disclaimer": {
+    "title": "免責事項",
+    "p1": "本サイトは独立したファンプロジェクトであり、HoYoverse の関係会社・後援・公式認定ではありません。",
+    "p2": "ギフトコードは一般に公開されている情報から集めています。掲載中のコードが現在も有効であることは保証しません。",
+    "p3": "コードの交換は必ず HoYoverse 公式サイトまたはゲーム内で行ってください。非公式ページにパスワードを入力しないでください。"
+  },
+  "privacy": {
+    "title": "プライバシー",
+    "p1": "広告、分析ピクセル、ユーザーアカウントはありません。",
+    "p2": "検索とコピーはブラウザ内で完結します。コードを表示するために個人データは使いません。"
+  },
+  "notFound": {
+    "title": "ページが見つかりません",
+    "body": "このページは存在しません。一覧からゲームを選んでください。",
+    "back": "トップへ戻る"
+  }
+}
