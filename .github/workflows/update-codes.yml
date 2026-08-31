@@ -51,6 +51,10 @@ jobs:
           node-version: "22"
           cache: npm
 
+      - name: Install dependencies
+        if: steps.commit.outputs.changed == 'true'
+        run: npm ci
+
       - name: Deploy to Netlify
         if: steps.commit.outputs.changed == 'true'
         run: npx netlify-cli deploy --prod --build
