@@ -1,21 +1,21 @@
 {
   "meta": {
-    "homeTitle": "HoYoverse 兑换码 — 最新游戏兑换码一站汇总",
-    "homeDescription": "没有广告、没有灌水。一键复制 Genshin Impact、Honkai: Star Rail、Zenless Zone Zero 等 HoYoverse 游戏的最新兑换码。",
+    "homeTitle": "PromoGacha — 最新抽卡游戏兑换码一站汇总",
+    "homeDescription": "没有广告、没有灌水。一键复制 Genshin Impact、Wuthering Waves、NIKKE 等抽卡游戏的最新兑换码。",
     "gameTitle": "{game} 兑换码 — 最新促销码",
     "gameDescription": "查找最新的 {game} 兑换码与奖励。一键复制，并查看发现时间。",
-    "aboutTitle": "关于 — PromoHoyo",
-    "aboutDescription": "PromoHoyo 是由玩家制作的 HoYoverse 兑换码汇总站。没有广告，没有干扰，只有兑换码。",
-    "disclaimerTitle": "免责声明 — PromoHoyo",
-    "disclaimerDescription": "PromoHoyo 是独立的玩家项目，与 HoYoverse 没有任何从属关系。",
-    "privacyTitle": "隐私 — PromoHoyo",
-    "privacyDescription": "PromoHoyo 不收集个人数据，不展示广告，也不使用跟踪 Cookie。",
-    "notFoundTitle": "页面不存在 — PromoHoyo",
+    "aboutTitle": "关于 — PromoGacha",
+    "aboutDescription": "PromoGacha 是由玩家制作的抽卡游戏兑换码汇总站。没有广告，没有干扰，只有兑换码。",
+    "disclaimerTitle": "免责声明 — PromoGacha",
+    "disclaimerDescription": "PromoGacha 是独立的玩家项目，与各游戏发行商没有任何从属关系。",
+    "privacyTitle": "隐私 — PromoGacha",
+    "privacyDescription": "PromoGacha 不收集个人数据，不展示广告，也不使用跟踪 Cookie。",
+    "notFoundTitle": "页面不存在 — PromoGacha",
     "notFoundDescription": "该页面不存在。"
   },
   "brand": {
-    "name": "PromoHoyo",
-    "tagline": "HoYoverse 兑换码"
+    "name": "PromoGacha",
+    "tagline": "抽卡兑换码"
   },
   "nav": {
     "home": "首页",
@@ -32,7 +32,7 @@
     "language": "语言"
   },
   "hero": {
-    "title": "HoYoverse 兑换码",
+    "title": "抽卡游戏兑换码",
     "subtitle": "把最新的游戏兑换码集中在一处。没有广告，没有干扰。",
     "cta": "选择游戏",
     "accent": "没有广告，只有兑换码。"
@@ -65,15 +65,15 @@
     "heading": "如何兑换 {game} 兑换码",
     "step1": "复制兑换码。",
     "step2": "打开 {game} 的官方兑换页面",
-    "step3": "登录你的 HoYoverse 账号。",
+    "step3": "登录你的游戏账号。",
     "step4": "选择服务器和角色，然后粘贴兑换码。",
     "step5": "回到游戏邮件中领取奖励。",
     "clickableHint": "(可点击链接)",
     "official": "打开官方兑换页面",
     "officialSite": "游戏官网",
-    "inGameOnly": "Honkai Impact 3rd 没有官方网页兑换入口。兑换码需要在游戏内使用。",
+    "inGameOnly": "该游戏没有官方网页兑换入口。兑换码需要在游戏内使用。",
     "inGameAlt": "游戏内也可以：",
-    "noWebYet": "HoYoverse 尚未为该游戏开放官方网页兑换入口。请关注官网动态，或在游戏内出现兑换选项时使用。",
+    "noWebYet": "该游戏尚未开放官方网页兑换入口。请关注官网动态，或在游戏内出现兑换选项时使用。",
     "ingameSteps": {
       "honkai-impact-3rd": [
         "复制兑换码。",
@@ -81,6 +81,41 @@
         "点击左上角的角色名。",
         "进入账户，找到兑换奖励。",
         "粘贴兑换码并点击 Get。"
+      ],
+      "wuthering-waves": [
+        "复制兑换码。",
+        "达到 Union Level 2 后打开 Terminal 菜单。",
+        "设置 → Other Settings。",
+        "在 Redemption Code 旁点击 Redeem。",
+        "粘贴兑换码，并从邮件领取奖励。"
+      ],
+      "nikke": [
+        "复制兑换码。",
+        "通关 1-4 后进入大厅。",
+        "Notice（铃铛）→ Event Notice。",
+        "打开 CD-Key Redemption Portal。",
+        "粘贴兑换码，并从邮件领取奖励。"
+      ],
+      "arknights": [
+        "复制兑换码。",
+        "打开明日方舟并登录。",
+        "在菜单中查找 Gift Exchange。",
+        "如果有兑换入口，粘贴兑换码。",
+        "从游戏邮件领取奖励。"
+      ],
+      "love-and-deepspace": [
+        "复制兑换码。",
+        "打开恋与深空并登录。",
+        "点击左上角头像。",
+        "设置 → More → Redeem Code。",
+        "粘贴兑换码，并从邮件领取奖励。"
+      ],
+      "afk-journey": [
+        "复制兑换码。",
+        "打开 AFK Journey 并点击头像。",
+        "设置 → Others。",
+        "点击 Promo Code。",
+        "粘贴兑换码并确认。"
       ]
     },
     "inGame": {
@@ -89,26 +124,31 @@
       "zenless-zone-zero": "菜单 → 更多 → 兑换码。完成序章后解锁。",
       "honkai-impact-3rd": "头像 → 账户 → 兑换奖励。",
       "tears-of-themis": "网页兑换成功后，奖励会发送到游戏内邮件。",
-      "honkai-nexus-anima": "若游戏内出现兑换入口，请在账户或设置菜单中查找。",
-      "petit-planet": "若游戏内出现兑换入口，请在账户或设置菜单中查找。"
+      "wuthering-waves": "Terminal → Settings → Other Settings → Redemption Code。需 Union Level 2。",
+      "nikke": "大厅 → Notice → CD-Key Redemption Portal。通关 1-4 后解锁。",
+      "fate-grand-order": "使用官方 serial code 页面，或在游戏内查找 Serial Code。",
+      "pokemon-tcg-pocket": "在官方礼品页输入 Support ID 和兑换码。",
+      "arknights": "如有公开兑换码，请在游戏菜单查找 Gift Exchange。",
+      "love-and-deepspace": "头像 → Settings → More → Redeem Code。",
+      "afk-journey": "头像 → Settings → Others → Promo Code。"
     }
   },
   "footer": {
     "unofficial": "非官方玩家项目。",
-    "notAffiliated": "与 HoYoverse 无关。",
-    "trademarks": "HoYoverse 及所有相关游戏名称均为其权利人的商标。"
+    "notAffiliated": "与各游戏发行商无关。",
+    "trademarks": "游戏名称及相关标识均为其权利人的商标。"
   },
   "about": {
     "title": "关于",
-    "p1": "没有广告，没有灌水文章。把 HoYoverse 游戏兑换码集中在一个地方。",
+    "p1": "没有广告，没有灌水文章。把抽卡游戏兑换码集中在一个地方。",
     "p2": "选游戏、复制兑换码、离开。产品就是这么简单。",
     "p3": "兑换码来自公开渠道。我们不验证兑换码当前是否有效，只记录它被发现的时间。"
   },
   "disclaimer": {
     "title": "免责声明",
-    "p1": "本网站是独立的玩家项目，与 HoYoverse 不存在从属、赞助或官方授权关系。",
+    "p1": "本网站是独立的玩家项目，与各游戏发行商不存在从属、赞助或官方授权关系。",
     "p2": "兑换码收集自公开可获取的来源。我们不保证列表中的每个兑换码当前仍然有效。",
-    "p3": "请务必在 HoYoverse 官方网站或游戏内兑换。不要在非官方页面输入密码。"
+    "p3": "请务必在游戏官网或游戏内兑换。不要在非官方页面输入密码。"
   },
   "privacy": {
     "title": "隐私",

@@ -1,21 +1,21 @@
 {
   "meta": {
-    "homeTitle": "Códigos de HoYoverse — todos los códigos recientes en un solo lugar",
-    "homeDescription": "Encuentra los códigos promocionales de HoYoverse sin anuncios ni relleno. Copia al instante códigos de Genshin Impact, Honkai: Star Rail, Zenless Zone Zero y más.",
+    "homeTitle": "PromoGacha — códigos gacha recientes en un solo lugar",
+    "homeDescription": "Encuentra códigos promocionales de gacha sin anuncios ni relleno. Copia al instante códigos de Genshin Impact, Wuthering Waves, NIKKE y más.",
     "gameTitle": "Códigos de {game} — códigos promocionales recientes",
     "gameDescription": "Encuentra los códigos promocionales más recientes de {game} y sus recompensas. Cópialos al instante y mira cuándo se encontraron.",
-    "aboutTitle": "Acerca de — PromoHoyo",
-    "aboutDescription": "PromoHoyo es un agregador hecho por fans de códigos promocionales de HoYoverse. Sin anuncios ni ruido: solo códigos.",
-    "disclaimerTitle": "Aviso legal — PromoHoyo",
-    "disclaimerDescription": "PromoHoyo es un proyecto independiente hecho por fans y no está afiliado a HoYoverse.",
-    "privacyTitle": "Privacidad — PromoHoyo",
-    "privacyDescription": "PromoHoyo no recopila datos personales, no muestra anuncios y no usa cookies de seguimiento.",
-    "notFoundTitle": "Página no encontrada — PromoHoyo",
+    "aboutTitle": "Acerca de — PromoGacha",
+    "aboutDescription": "PromoGacha es un agregador hecho por fans de códigos promocionales de gacha. Sin anuncios ni ruido: solo códigos.",
+    "disclaimerTitle": "Aviso legal — PromoGacha",
+    "disclaimerDescription": "PromoGacha es un proyecto independiente hecho por fans y no está afiliado a las editoras de los juegos.",
+    "privacyTitle": "Privacidad — PromoGacha",
+    "privacyDescription": "PromoGacha no recopila datos personales, no muestra anuncios y no usa cookies de seguimiento.",
+    "notFoundTitle": "Página no encontrada — PromoGacha",
     "notFoundDescription": "Esta página no existe."
   },
   "brand": {
-    "name": "PromoHoyo",
-    "tagline": "Códigos HoYoverse"
+    "name": "PromoGacha",
+    "tagline": "Códigos gacha"
   },
   "nav": {
     "home": "Inicio",
@@ -32,7 +32,7 @@
     "language": "Idioma"
   },
   "hero": {
-    "title": "Códigos promocionales de HoYoverse",
+    "title": "Códigos promocionales gacha",
     "subtitle": "Todos los códigos recientes en un solo lugar. Sin anuncios. Sin ruido.",
     "cta": "Elige tu juego",
     "accent": "Sin anuncios. Solo códigos."
@@ -65,15 +65,15 @@
     "heading": "Cómo canjear códigos de {game}",
     "step1": "Copia el código promocional.",
     "step2": "Abre la página oficial de canje de {game}",
-    "step3": "Inicia sesión con tu cuenta de HoYoverse.",
+    "step3": "Inicia sesión con tu cuenta del juego.",
     "step4": "Selecciona tu servidor y personaje y pega el código.",
     "step5": "Reclama las recompensas en el correo del juego.",
     "clickableHint": "(enlace clicable)",
     "official": "Abrir la página oficial de canje",
     "officialSite": "Sitio oficial del juego",
-    "inGameOnly": "Honkai Impact 3rd no tiene página web oficial de canje. Los códigos se canjean dentro del juego.",
+    "inGameOnly": "Este juego no tiene página web oficial de canje. Los códigos se canjean dentro del juego.",
     "inGameAlt": "En el juego:",
-    "noWebYet": "HoYoverse aún no ha publicado una página web oficial de canje para este juego. Consulta el sitio oficial o canjea el código en el juego si aparece esa opción.",
+    "noWebYet": "Este juego aún no tiene una página web oficial de canje. Consulta el sitio oficial o canjea el código en el juego si aparece esa opción.",
     "ingameSteps": {
       "honkai-impact-3rd": [
         "Copia el código promocional.",
@@ -81,6 +81,41 @@
         "Toca tu nombre en la esquina superior izquierda del Puente.",
         "Abre Cuenta y busca Exchange Rewards.",
         "Pega el código y pulsa Get."
+      ],
+      "wuthering-waves": [
+        "Copia el código promocional.",
+        "Alcanza Union Level 2 y abre el menú Terminal.",
+        "Ajustes → Other Settings.",
+        "Pulsa Redeem junto a Redemption Code.",
+        "Pega el código y recoge las recompensas del correo."
+      ],
+      "nikke": [
+        "Copia el código promocional.",
+        "Completa la etapa 1-4 y abre el Lobby.",
+        "Notice (campana) → Event Notice.",
+        "Abre el CD-Key Redemption Portal.",
+        "Pega el código y recoge las recompensas del correo."
+      ],
+      "arknights": [
+        "Copia el código promocional.",
+        "Abre Arknights e inicia sesión.",
+        "Busca Gift Exchange en el menú.",
+        "Pega el código si la opción está disponible.",
+        "Recoge las recompensas del correo del juego."
+      ],
+      "love-and-deepspace": [
+        "Copia el código promocional.",
+        "Abre Love and Deepspace e inicia sesión.",
+        "Toca tu perfil arriba a la izquierda.",
+        "Ajustes → More → Redeem Code.",
+        "Pega el código y recoge las recompensas del correo."
+      ],
+      "afk-journey": [
+        "Copia el código promocional.",
+        "Abre AFK Journey y toca tu avatar.",
+        "Ajustes → Others.",
+        "Pulsa Promo Code.",
+        "Pega el código y confirma."
       ]
     },
     "inGame": {
@@ -89,26 +124,31 @@
       "zenless-zone-zero": "menú → Más → Código de canje. Se desbloquea tras el prólogo.",
       "honkai-impact-3rd": "avatar → Cuenta → Canjear recompensas.",
       "tears-of-themis": "Tras un canje correcto en la web, las recompensas llegan al correo del juego.",
-      "honkai-nexus-anima": "Si aparece la opción de canje, búscala en el menú de cuenta o ajustes.",
-      "petit-planet": "Si aparece la opción de canje, búscala en el menú de cuenta o ajustes."
+      "wuthering-waves": "Terminal → Settings → Other Settings → Redemption Code. Desde Union Level 2.",
+      "nikke": "Lobby → Notice → CD-Key Redemption Portal. Tras la etapa 1-4.",
+      "fate-grand-order": "Página oficial de serial code o el menú Serial Code en el juego.",
+      "pokemon-tcg-pocket": "En la página oficial de regalos introduce tu Support ID y el código.",
+      "arknights": "Busca Gift Exchange en el menú si se publica un código.",
+      "love-and-deepspace": "Perfil → Settings → More → Redeem Code.",
+      "afk-journey": "Avatar → Settings → Others → Promo Code."
     }
   },
   "footer": {
     "unofficial": "Proyecto no oficial hecho por fans.",
-    "notAffiliated": "No está afiliado a HoYoverse.",
-    "trademarks": "HoYoverse y todos los nombres de juegos relacionados son marcas de sus respectivos titulares."
+    "notAffiliated": "No está afiliado a las editoras de los juegos.",
+    "trademarks": "Los nombres de los juegos y sus marcas pertenecen a sus respectivos titulares."
   },
   "about": {
     "title": "Acerca de",
-    "p1": "Un solo lugar para los códigos promocionales de HoYoverse, sin anuncios, sin relleno y sin scroll infinito.",
+    "p1": "Un solo lugar para los códigos promocionales de gacha, sin anuncios, sin relleno y sin scroll infinito.",
     "p2": "Elige un juego, copia un código y vete. Eso es todo el producto.",
     "p3": "Los códigos se agregan desde fuentes públicas. No comprobamos si un código sigue activo: solo anotamos cuándo se encontró."
   },
   "disclaimer": {
     "title": "Aviso legal",
-    "p1": "Este sitio es un proyecto independiente hecho por fans y no está afiliado, patrocinado ni respaldado por HoYoverse.",
+    "p1": "Este sitio es un proyecto independiente hecho por fans y no está afiliado, patrocinado ni respaldado por las editoras de los juegos.",
     "p2": "Los códigos promocionales se recogen de fuentes de acceso público. No garantizamos que cada código listado sea válido ahora mismo.",
-    "p3": "Canjea siempre los códigos en el sitio oficial de HoYoverse o dentro del juego. No introduzcas tu contraseña en páginas no oficiales."
+    "p3": "Canjea siempre los códigos en el sitio oficial del juego o dentro del juego. No introduzcas tu contraseña en páginas no oficiales."
   },
   "privacy": {
     "title": "Privacidad",

@@ -6,4 +6,4 @@
 
 [build.environment]
   NODE_VERSION = "22"
-  NEXT_PUBLIC_SITE_URL = "https://promohoyo.netlify.app"
+  NEXT_PUBLIC_SITE_URL = "https://promogacha.netlify.app"

@@ -1,21 +1,21 @@
 {
   "meta": {
-    "homeTitle": "HoYoverse ギフトコード — 最新コードを一箇所に",
-    "homeDescription": "広告も余計な文章もなく、Genshin Impact、Honkai: Star Rail、Zenless Zone Zero など HoYoverse の最新ギフトコードをすぐコピーできます。",
+    "homeTitle": "PromoGacha — 最新ガチャコードを一箇所に",
+    "homeDescription": "広告も余計な文章もなく、Genshin Impact、Wuthering Waves、NIKKE などの最新ギフトコードをすぐコピーできます。",
     "gameTitle": "{game} のコード — 最新ギフトコード",
     "gameDescription": "{game} の最新ギフトコードと報酬をまとめて確認。ワンクリックでコピーし、発見日時もわかります。",
-    "aboutTitle": "このサイトについて — PromoHoyo",
-    "aboutDescription": "PromoHoyo はファン制作の HoYoverse ギフトコードまとめです。広告なし、ノイズなし、コードだけ。",
-    "disclaimerTitle": "免責事項 — PromoHoyo",
-    "disclaimerDescription": "PromoHoyo は独立したファンプロジェクトであり、HoYoverse とは関係ありません。",
-    "privacyTitle": "プライバシー — PromoHoyo",
-    "privacyDescription": "PromoHoyo は個人データを収集せず、広告もトラッキング Cookie も使いません。",
-    "notFoundTitle": "ページが見つかりません — PromoHoyo",
+    "aboutTitle": "このサイトについて — PromoGacha",
+    "aboutDescription": "PromoGacha はファン制作のガチャギフトコードまとめです。広告なし、ノイズなし、コードだけ。",
+    "disclaimerTitle": "免責事項 — PromoGacha",
+    "disclaimerDescription": "PromoGacha は独立したファンプロジェクトであり、各ゲームの運営とは関係ありません。",
+    "privacyTitle": "プライバシー — PromoGacha",
+    "privacyDescription": "PromoGacha は個人データを収集せず、広告もトラッキング Cookie も使いません。",
+    "notFoundTitle": "ページが見つかりません — PromoGacha",
     "notFoundDescription": "このページは存在しません。"
   },
   "brand": {
-    "name": "PromoHoyo",
-    "tagline": "HoYoverse コード"
+    "name": "PromoGacha",
+    "tagline": "ガチャコード"
   },
   "nav": {
     "home": "ホーム",
@@ -32,7 +32,7 @@
     "language": "言語"
   },
   "hero": {
-    "title": "HoYoverse ギフトコード",
+    "title": "ガチャギフトコード",
     "subtitle": "最新のギフトコードを一箇所に。広告なし、余計な情報なし。",
     "cta": "ゲームを選ぶ",
     "accent": "広告なし。コードだけ。"
@@ -65,15 +65,15 @@
     "heading": "{game} のコード交換方法",
     "step1": "ギフトコードをコピーする。",
     "step2": "{game} の公式交換ページを開く",
-    "step3": "HoYoverse アカウントでログインする。",
+    "step3": "ゲームアカウントでログインする。",
     "step4": "サーバーとキャラクターを選び、コードを貼り付ける。",
     "step5": "ゲーム内メールから報酬を受け取る。",
     "clickableHint": "(クリックできるリンク)",
     "official": "公式の交換ページを開く",
     "officialSite": "公式サイト",
-    "inGameOnly": "Honkai Impact 3rd には公式のウェブ交換ページがありません。コードはゲーム内で入力します。",
+    "inGameOnly": "このゲームには公式のウェブ交換ページがありません。コードはゲーム内で入力します。",
     "inGameAlt": "ゲーム内でも：",
-    "noWebYet": "HoYoverse はこのゲームの公式ウェブ交換ページをまだ公開していません。公式サイトの更新を確認するか、ゲーム内に交換項目が出たらそこから入力してください。",
+    "noWebYet": "このゲームの公式ウェブ交換ページはまだありません。公式サイトの更新を確認するか、ゲーム内に交換項目が出たらそこから入力してください。",
     "ingameSteps": {
       "honkai-impact-3rd": [
         "ギフトコードをコピーする。",
@@ -81,6 +81,41 @@
         "画面左上の名前をタップする。",
         "アカウントを開き、報酬交換を探す。",
         "コードを貼り付けて Get を押す。"
+      ],
+      "wuthering-waves": [
+        "ギフトコードをコピーする。",
+        "Union Level 2 に達したら Terminal メニューを開く。",
+        "設定 → Other Settings。",
+        "Redemption Code の Redeem をタップする。",
+        "コードを貼り付け、メールから報酬を受け取る。"
+      ],
+      "nikke": [
+        "ギフトコードをコピーする。",
+        "ステージ 1-4 をクリアしてロビーを開く。",
+        "Notice（ベル）→ Event Notice。",
+        "CD-Key Redemption Portal を開く。",
+        "コードを貼り付け、メールから報酬を受け取る。"
+      ],
+      "arknights": [
+        "ギフトコードをコピーする。",
+        "アークナイツを起動してログインする。",
+        "メニューで Gift Exchange を探す。",
+        "交換項目があればコードを貼り付ける。",
+        "ゲーム内メールから報酬を受け取る。"
+      ],
+      "love-and-deepspace": [
+        "ギフトコードをコピーする。",
+        "Love and Deepspace を起動してログインする。",
+        "左上のプロフィールをタップする。",
+        "設定 → More → Redeem Code。",
+        "コードを貼り付け、メールから報酬を受け取る。"
+      ],
+      "afk-journey": [
+        "ギフトコードをコピーする。",
+        "AFK Journey を開き、アバターをタップする。",
+        "設定 → Others。",
+        "Promo Code をタップする。",
+        "コードを貼り付けて確定する。"
       ]
     },
     "inGame": {
@@ -89,26 +124,31 @@
       "zenless-zone-zero": "メニュー → その他 → ギフトコード。プロローグ後に解放。",
       "honkai-impact-3rd": "アバター → アカウント → 報酬交換。",
       "tears-of-themis": "ウェブ交換が完了すると、報酬はゲーム内メールに届きます。",
-      "honkai-nexus-anima": "ゲーム内に交換項目が出たら、アカウントまたは設定メニューを確認してください。",
-      "petit-planet": "ゲーム内に交換項目が出たら、アカウントまたは設定メニューを確認してください。"
+      "wuthering-waves": "Terminal → Settings → Other Settings → Redemption Code。Union Level 2 以降。",
+      "nikke": "ロビー → Notice → CD-Key Redemption Portal。ステージ 1-4 後。",
+      "fate-grand-order": "公式のシリアルコードページ、またはゲーム内の Serial Code。",
+      "pokemon-tcg-pocket": "公式ギフトページで Support ID とコードを入力する。",
+      "arknights": "コードが公開されたらゲーム内の Gift Exchange を探す。",
+      "love-and-deepspace": "プロフィール → Settings → More → Redeem Code。",
+      "afk-journey": "アバター → Settings → Others → Promo Code。"
     }
   },
   "footer": {
     "unofficial": "非公式のファンプロジェクトです。",
-    "notAffiliated": "HoYoverse とは関係ありません。",
-    "trademarks": "HoYoverse および関連するゲーム名は、各権利者の商標です。"
+    "notAffiliated": "各ゲームの運営とは関係ありません。",
+    "trademarks": "ゲーム名および関連する商標は、各権利者に帰属します。"
   },
   "about": {
     "title": "このサイトについて",
-    "p1": "広告も余計な文章もなく、HoYoverse のギフトコードを一箇所にまとめたサイトです。",
+    "p1": "広告も余計な文章もなく、ガチャのギフトコードを一箇所にまとめたサイトです。",
     "p2": "ゲームを選んで、コードをコピーして、閉じる。それがすべてです。",
     "p3": "コードは公開情報から集めています。現在も有効かどうかは確認していません。記録しているのは発見日時だけです。"
   },
   "disclaimer": {
     "title": "免責事項",
-    "p1": "本サイトは独立したファンプロジェクトであり、HoYoverse の関係会社・後援・公式認定ではありません。",
+    "p1": "本サイトは独立したファンプロジェクトであり、各ゲーム運営の関係会社・後援・公式認定ではありません。",
     "p2": "ギフトコードは一般に公開されている情報から集めています。掲載中のコードが現在も有効であることは保証しません。",
-    "p3": "コードの交換は必ず HoYoverse 公式サイトまたはゲーム内で行ってください。非公式ページにパスワードを入力しないでください。"
+    "p3": "コードの交換は必ず公式サイトまたはゲーム内で行ってください。非公式ページにパスワードを入力しないでください。"
   },
   "privacy": {
     "title": "プライバシー",

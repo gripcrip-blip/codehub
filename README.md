@@ -1,8 +1,8 @@
-# PromoHoyo
+# PromoGacha
 
-Fan-made aggregator of HoYoverse promo codes. No ads. No accounts. No backend.
+Fan-made aggregator of gacha promo codes. No ads. No accounts. No backend.
 
-Promo codes live in `data/codes.json`. A Python parser fills that file from public sources. GitHub Actions runs the parser every day, commits updates, and deploys the site to [Netlify](https://promohoyo.netlify.app).
+Promo codes live in `data/codes.json`. A Python parser fills that file from public sources. GitHub Actions runs the parser every day, commits updates, and deploys the site to [Netlify](https://promogacha.netlify.app).
 
 ## Run locally
 

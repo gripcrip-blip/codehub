@@ -1,21 +1,21 @@
 {
   "meta": {
-    "homeTitle": "HoYoverse Promo Codes — Latest Game Codes in One Place",
-    "homeDescription": "Find the latest HoYoverse promo codes without ads or clutter. Copy codes instantly for Genshin Impact, Honkai: Star Rail, Zenless Zone Zero and more.",
+    "homeTitle": "PromoGacha — Latest Gacha Promo Codes in One Place",
+    "homeDescription": "Find the latest gacha promo codes without ads or clutter. Copy codes instantly for Genshin Impact, Wuthering Waves, NIKKE and more.",
     "gameTitle": "{game} Codes — Latest Promo Codes",
     "gameDescription": "Find the latest {game} promo codes and rewards. Copy codes instantly and check when they were found.",
-    "aboutTitle": "About — PromoHoyo",
-    "aboutDescription": "PromoHoyo is a fan-made aggregator of HoYoverse promo codes. No ads, no clutter — just codes.",
-    "disclaimerTitle": "Disclaimer — PromoHoyo",
-    "disclaimerDescription": "PromoHoyo is an independent fan-made project and is not affiliated with HoYoverse.",
-    "privacyTitle": "Privacy — PromoHoyo",
-    "privacyDescription": "PromoHoyo does not collect personal data, show ads, or use tracking cookies.",
-    "notFoundTitle": "Page not found — PromoHoyo",
+    "aboutTitle": "About — PromoGacha",
+    "aboutDescription": "PromoGacha is a fan-made aggregator of gacha promo codes. No ads, no clutter — just codes.",
+    "disclaimerTitle": "Disclaimer — PromoGacha",
+    "disclaimerDescription": "PromoGacha is an independent fan-made project and is not affiliated with the game publishers.",
+    "privacyTitle": "Privacy — PromoGacha",
+    "privacyDescription": "PromoGacha does not collect personal data, show ads, or use tracking cookies.",
+    "notFoundTitle": "Page not found — PromoGacha",
     "notFoundDescription": "This page does not exist."
   },
   "brand": {
-    "name": "PromoHoyo",
-    "tagline": "HoYoverse Codes"
+    "name": "PromoGacha",
+    "tagline": "Gacha Codes"
   },
   "nav": {
     "home": "Home",
@@ -32,7 +32,7 @@
     "language": "Language"
   },
   "hero": {
-    "title": "HoYoverse Promo Codes",
+    "title": "Gacha Promo Codes",
     "subtitle": "All the latest game codes in one place. No ads. No clutter.",
     "cta": "Find your game",
     "accent": "No ads. Just codes."
@@ -65,15 +65,15 @@
     "heading": "How to redeem {game} codes",
     "step1": "Copy the promo code.",
     "step2": "Open the official {game} redemption page",
-    "step3": "Log in with your HoYoverse account.",
+    "step3": "Log in with your game account.",
     "step4": "Select your server and character, then paste the code.",
     "step5": "Collect the rewards from in-game mail.",
     "clickableHint": "(clickable link)",
     "official": "Open official redemption page",
     "officialSite": "Official game website",
-    "inGameOnly": "Honkai Impact 3rd has no official web redemption page. Codes are redeemed inside the game.",
+    "inGameOnly": "This game has no official web redemption page. Codes are redeemed inside the game.",
     "inGameAlt": "In-game alternative:",
-    "noWebYet": "HoYoverse has not published an official web redemption page for this game yet. Check the official site for updates, or redeem in-game if that option appears.",
+    "noWebYet": "This game has no official web redemption page yet. Check the official site for updates, or redeem in-game if that option appears.",
     "ingameSteps": {
       "honkai-impact-3rd": [
         "Copy the promo code.",
@@ -81,6 +81,41 @@
         "Tap your name in the top-left corner of the Bridge.",
         "Open Account and find Exchange Rewards.",
         "Paste the code and tap Get."
+      ],
+      "wuthering-waves": [
+        "Copy the promo code.",
+        "Reach Union Level 2, then open the Terminal menu.",
+        "Open Settings → Other Settings.",
+        "Tap Redeem next to Redemption Code.",
+        "Paste the code and collect rewards from the mailbox."
+      ],
+      "nikke": [
+        "Copy the promo code.",
+        "Clear campaign stage 1-4, then open the Lobby.",
+        "Open Notice (bell) → Event Notice.",
+        "Open the CD-Key Redemption Portal.",
+        "Paste the code and collect rewards from the mailbox."
+      ],
+      "arknights": [
+        "Copy the promo code.",
+        "Open Arknights and log in.",
+        "Open the menu and look for Gift Exchange or similar.",
+        "Paste the code if the option is available.",
+        "Collect rewards from in-game mail."
+      ],
+      "love-and-deepspace": [
+        "Copy the promo code.",
+        "Open Love and Deepspace and log in.",
+        "Tap your profile in the top-left corner.",
+        "Open Settings → More → Redeem Code.",
+        "Paste the code and collect rewards from the mailbox."
+      ],
+      "afk-journey": [
+        "Copy the promo code.",
+        "Open AFK Journey and tap your avatar.",
+        "Open Settings → Others.",
+        "Tap Promo Code.",
+        "Paste the code and confirm."
       ]
     },
     "inGame": {
@@ -89,26 +124,31 @@
       "zenless-zone-zero": "Menu → More → Redemption Code. Unlocks after the prologue.",
       "honkai-impact-3rd": "Avatar → Account → Exchange Rewards.",
       "tears-of-themis": "Rewards arrive in your in-game mailbox after a successful web redemption.",
-      "honkai-nexus-anima": "If a redeem option appears, look in the in-game account or settings menu.",
-      "petit-planet": "If a redeem option appears, look in the in-game account or settings menu."
+      "wuthering-waves": "Terminal → Settings → Other Settings → Redemption Code. Unlocks at Union Level 2.",
+      "nikke": "Lobby → Notice → CD-Key Redemption Portal. Unlocks after stage 1-4.",
+      "fate-grand-order": "Use the official serial code page, or look in the in-game menu for Serial Code.",
+      "pokemon-tcg-pocket": "Enter your Support ID on the official gift page, then paste the gift code.",
+      "arknights": "Look in the in-game menu for Gift Exchange if a code is published.",
+      "love-and-deepspace": "Profile → Settings → More → Redeem Code.",
+      "afk-journey": "Avatar → Settings → Others → Promo Code."
     }
   },
   "footer": {
     "unofficial": "Unofficial fan-made project.",
-    "notAffiliated": "Not affiliated with HoYoverse.",
-    "trademarks": "HoYoverse and all related game names are trademarks of their respective owners."
+    "notAffiliated": "Not affiliated with the game publishers.",
+    "trademarks": "Game names, logos and related marks are trademarks of their respective owners."
   },
   "about": {
     "title": "About",
-    "p1": "One place for HoYoverse promo codes without ads, clutter and endless scrolling.",
+    "p1": "One place for gacha promo codes without ads, clutter and endless scrolling.",
     "p2": "Pick a game, copy a code, leave. That is the whole product.",
     "p3": "Codes are aggregated from public sources. We do not check whether a code still works — we only record when it was found."
   },
   "disclaimer": {
     "title": "Disclaimer",
-    "p1": "This website is an independent fan-made project and is not affiliated with, sponsored by, or endorsed by HoYoverse.",
+    "p1": "This website is an independent fan-made project and is not affiliated with, sponsored by, or endorsed by the game publishers.",
     "p2": "Promo codes are collected from publicly available sources. We do not guarantee that every listed code is currently valid.",
-    "p3": "Always redeem codes on the official HoYoverse website or inside the game. Do not enter your password on unofficial pages."
+    "p3": "Always redeem codes on the official website or inside the game. Do not enter your password on unofficial pages."
   },
   "privacy": {
     "title": "Privacy",

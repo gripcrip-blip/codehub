@@ -36,7 +36,10 @@ export function RedeemGuide({ game, locale, messages }: RedeemGuideProps) {
   const url = getRedemptionUrl(game, locale);
   const official = getOfficialUrl(game, locale);
   const inGame = inGameNote(messages, game.slug);
-  const hi3Steps = messages.redeem.ingameSteps["honkai-impact-3rd"];
+  const steps =
+    messages.redeem.ingameSteps[
+      game.slug as keyof typeof messages.redeem.ingameSteps
+    ];
   const hint = messages.redeem.clickableHint;
 
   return (
@@ -65,11 +68,11 @@ export function RedeemGuide({ game, locale, messages }: RedeemGuideProps) {
             </p>
           ) : null}
         </>
-      ) : game.slug === "honkai-impact-3rd" ? (
+      ) : steps ? (
         <>
           <p className="mt-3 text-sm text-muted">{messages.redeem.inGameOnly}</p>
           <ol className="mt-4 space-y-2 text-sm leading-6 text-zinc-300">
-            {hi3Steps.map((step, index) => (
+            {steps.map((step, index) => (
               <li key={step}>
                 {index + 1}. {step}
               </li>
