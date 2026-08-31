@@ -2,7 +2,7 @@
   "meta": {
     "homeTitle": "PromoGacha — códigos gacha recientes en un solo lugar",
     "homeDescription": "Encuentra códigos promocionales de gacha sin anuncios ni relleno. Copia al instante códigos de Genshin Impact, Wuthering Waves, NIKKE y más.",
-    "gameTitle": "Códigos de {game} — códigos promocionales recientes",
+    "gameTitle": "Códigos promocionales de {game}",
     "gameDescription": "Encuentra los códigos promocionales más recientes de {game} y sus recompensas. Cópialos al instante y mira cuándo se encontraron.",
     "aboutTitle": "Acerca de — PromoGacha",
     "aboutDescription": "PromoGacha es un agregador hecho por fans de códigos promocionales de gacha. Sin anuncios ni ruido: solo códigos.",
@@ -15,7 +15,7 @@
   },
   "brand": {
     "name": "PromoGacha",
-    "tagline": "Códigos gacha"
+    "tagline": "Códigos promocionales gacha"
   },
   "nav": {
     "home": "Inicio",
@@ -25,7 +25,7 @@
     "searchPlaceholder": "Busca un juego o un código",
     "searchNoResults": "Sin resultados",
     "searchGames": "Juegos",
-    "searchCodes": "Códigos",
+    "searchCodes": "Códigos promocionales",
     "privacy": "Privacidad",
     "disclaimer": "Aviso legal",
     "close": "Cerrar",
@@ -57,7 +57,7 @@
     "emptyTitle": "Todavía no hay nada.",
     "emptyBody": "Vuelve más tarde: los códigos nuevos se añaden automáticamente.",
     "homeLatest": "Lo más reciente de todos los juegos",
-    "pageHeading": "Códigos de {game}",
+    "pageHeading": "Códigos promocionales de {game}",
     "pageIntro": "Encuentra los códigos promocionales más recientes de {game}, las recompensas y cómo canjearlos, todo en un solo lugar."
   },
   "redeem": {

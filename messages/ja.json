@@ -2,7 +2,7 @@
   "meta": {
     "homeTitle": "PromoGacha — 最新ガチャコードを一箇所に",
     "homeDescription": "広告も余計な文章もなく、Genshin Impact、Wuthering Waves、NIKKE などの最新ギフトコードをすぐコピーできます。",
-    "gameTitle": "{game} のコード — 最新ギフトコード",
+    "gameTitle": "{game} のプロモコード — 最新ギフトコード",
     "gameDescription": "{game} の最新ギフトコードと報酬をまとめて確認。ワンクリックでコピーし、発見日時もわかります。",
     "aboutTitle": "このサイトについて — PromoGacha",
     "aboutDescription": "PromoGacha はファン制作のガチャギフトコードまとめです。広告なし、ノイズなし、コードだけ。",
@@ -15,7 +15,7 @@
   },
   "brand": {
     "name": "PromoGacha",
-    "tagline": "ガチャコード"
+    "tagline": "ガチャプロモコード"
   },
   "nav": {
     "home": "ホーム",
@@ -25,7 +25,7 @@
     "searchPlaceholder": "ゲーム名またはコードを検索",
     "searchNoResults": "該当なし",
     "searchGames": "ゲーム",
-    "searchCodes": "コード",
+    "searchCodes": "プロモコード",
     "privacy": "プライバシー",
     "disclaimer": "免責事項",
     "close": "閉じる",
@@ -57,7 +57,7 @@
     "emptyTitle": "まだ何もありません。",
     "emptyBody": "また後で確認してください。新しいコードは自動で追加されます。",
     "homeLatest": "全ゲームの最新コード",
-    "pageHeading": "{game} のコード",
+    "pageHeading": "{game} のプロモコード",
     "pageIntro": "{game} の最新ギフトコード、報酬、交換方法を一箇所で確認できます。"
   },
   "redeem": {
