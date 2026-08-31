@@ -2,6 +2,7 @@
 
 import { GameIcon } from "@/components/GameIcon";
 import { games } from "@/data/games";
+import { displayReward } from "@/lib/codes";
 import type { Messages } from "@/lib/i18n";
 import type { Locale } from "@/lib/locales";
 import { gameCodesPath, localizedPath } from "@/lib/paths";
@@ -127,6 +128,7 @@ export function Search({ locale, messages, codes }: SearchProps) {
                   {codeResults.map((code) => {
                     const game = games.find((item) => item.slug === code.game);
                     if (!game) return null;
+                    const reward = displayReward(code.reward);
                     return (
                       <Link
                         key={code.id}
@@ -142,7 +144,7 @@ export function Search({ locale, messages, codes }: SearchProps) {
                         </span>
                         <span className="mt-0.5 block truncate text-xs text-muted">
                           {game.shortName}
-                          {code.reward ? ` · ${code.reward}` : ""}
+                          {reward ? ` · ${reward}` : ""}
                         </span>
                       </Link>
                     );

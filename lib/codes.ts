@@ -24,6 +24,14 @@ export function getCodesByGame(gameSlug: string): PromoCode[] {
   return getAllCodes().filter((code) => code.game === gameSlug);
 }
 
+export function displayReward(reward?: string): string | undefined {
+  if (!reward) return undefined;
+  if (/wikitable|===Expired===|===Active===|\{[\|:]|class\s*=/i.test(reward)) {
+    return undefined;
+  }
+  return reward;
+}
+
 export function isRecentlyFound(foundAt: string, now = Date.now()): boolean {
   return now - new Date(foundAt).getTime() < NEW_WINDOW_MS;
 }

@@ -167,10 +167,16 @@ def make_id(game: str, code: str) -> str:
 def format_reward(raw: str | None) -> str | None:
     if not raw:
         return None
-    text = re.sub(r"\{\{[^}]+\}\}", "", raw).strip()
+    text = re.sub(
+        r"\{\{\s*([^|}]+)\|([^}]+)\}\}",
+        lambda match: f"{match.group(2).strip()} {match.group(1).strip()}",
+        str(raw),
+    )
+    text = re.sub(r"\{\{[^}]+\}\}", "", text).strip()
     text = re.sub(r"\[\[([^|\]]+\|)?([^\]]+)\]\]", r"\2", text)
     text = re.sub(r"\[https?://[^\s\]]+\s+([^\]]+)\]", r"\1", text)
     text = text.replace("&nbsp;", " ").replace("\xa0", " ")
+    text = re.sub(r"<br\s*/?>", " + ", text, flags=re.I)
     text = re.sub(r"<[^>]+>", " ", text)
     text = re.sub(r"\|\|.*", " ", text)
     text = re.sub(
@@ -181,6 +187,8 @@ def format_reward(raw: str | None) -> str | None:
     )
     text = re.sub(r"\s+", " ", text).strip(" ;,|{}")
     if not text or text.lower().startswith("redeem code for free"):
+        return None
+    if re.search(r"wikitable|===|\{[\|:]|class\s*=", text, re.I):
         return None
     if re.fullmatch(r"[|{}]+", text):
         return None
@@ -210,6 +218,10 @@ def is_junk_reward(value: Any) -> bool:
     text = str(value).strip()
     if text.startswith("||") or text.startswith("|}") or text in {"}", "|"}:
         return True
+    if re.search(r"wikitable|===Expired===|===Active===|\{[\|:]", text, re.I):
+        return True
+    if "class=" in text and "style=" in text:
+        return True
     if re.match(
         r"^(January|February|March|April|May|June|July|August|September|October|November|December)\b",
         text,
@@ -228,15 +240,24 @@ def card_list_reward(text: str) -> str | None:
 
 def parse_discovered(text: str) -> str | None:
     match = DISCOVERED_RE.search(text)
-    if not match:
+    date_text = match.group(1) if match else None
+    if not date_text:
         iso = re.search(r"(\d{4})-(\d{2})-(\d{2})", text)
         if iso:
             return f"{iso.group(1)}-{iso.group(2)}-{iso.group(3)}T12:00:00Z"
-        return None
-    parsed = re.match(r"([A-Za-z]+)\s+(\d{1,2}),\s+(\d{4})", match.group(1))
-    if not parsed:
-        return None
-    month_name, day, year = parsed.groups()
+        parsed = re.search(
+            r"(January|February|March|April|May|June|July|August|September|October|November|December)\s+(\d{1,2}),\s+(\d{4})",
+            text,
+            re.I,
+        )
+        if not parsed:
+            return None
+        month_name, day, year = parsed.groups()
+    else:
+        parsed = re.match(r"([A-Za-z]+)\s+(\d{1,2}),\s+(\d{4})", date_text)
+        if not parsed:
+            return None
+        month_name, day, year = parsed.groups()
     month = MONTHS.get(month_name.lower())
     if not month:
         return None
@@ -310,12 +331,12 @@ def upsert(
             "foundAt": found_at,
             "source": {"name": source_name, "url": source_url},
         }
-        if reward:
+        if reward and not is_junk_reward(reward):
             item["reward"] = reward
         bucket[key] = item
         return
 
-    if reward:
+    if reward and not is_junk_reward(reward):
         if not existing.get("reward") or is_junk_reward(existing.get("reward")):
             existing["reward"] = reward
     elif is_junk_reward(existing.get("reward")):
@@ -404,7 +425,15 @@ def collect_wiki_tables(bucket: dict[tuple[str, str], dict[str, Any]]) -> None:
             print(f"[wiki-table] skip {game}: {exc}")
             continue
         added = 0
+        wikitext = re.split(
+            r"\n===+\s*(Expired|Inactive|Invalid)\b",
+            wikitext,
+            maxsplit=1,
+            flags=re.I,
+        )[0]
         for raw_row in re.split(r"\n\|-", wikitext):
+            raw_row = re.split(r"\n\|\}", raw_row, maxsplit=1)[0]
+            raw_row = re.split(r"\n===", raw_row, maxsplit=1)[0]
             cells = [part.strip() for part in re.split(r"\|\|", raw_row) if part.strip()]
             first = ""
             if cells:

@@ -1,7 +1,18 @@
 {
   "demo": false,
-  "updatedAt": "2026-08-31T08:17:31Z",
+  "updatedAt": "2026-08-31T08:26:07Z",
   "codes": [
+    {
+      "id": "afk-journey-afkjn2024",
+      "code": "AFKJN2024",
+      "game": "afk-journey",
+      "foundAt": "2026-08-31T08:26:05Z",
+      "source": {
+        "name": "Fandom Wiki",
+        "url": "https://afk-journey.fandom.com/wiki/Redemption_Code"
+      },
+      "reward": "188 Diamonds + 18k Gold"
+    },
     {
       "id": "afk-journey-afkjourneytt",
       "code": "AFKJourneyTT",
@@ -11,7 +22,7 @@
         "name": "Fandom Wiki",
         "url": "https://afk-journey.fandom.com/wiki/Redemption_Code"
       },
-      "reward": "===Expired=== {|class=\"wikitable\" style=\"margin: 0 auto + border: 2px solid #89642d + font-family: Arial, sans-serif + text-align: left + padding: 10px + line-height: 1.4 + \""
+      "reward": "88 Diamonds + 16k Gold"
     },
     {
       "id": "afk-journey-afkjourneyzekiapax",
@@ -674,227 +685,6 @@
       }
     },
     {
-      "id": "afk-journey-markijourney",
-      "code": "MARKIJOURNEY",
-      "game": "afk-journey",
-      "foundAt": "2026-08-31T08:13:58Z",
-      "source": {
-        "name": "Fandom Wiki",
-        "url": "https://afk-journey.fandom.com/wiki/Redemption_Code"
-      }
-    },
-    {
-      "id": "afk-journey-lilith11afkj",
-      "code": "LILITH11AFKJ",
-      "game": "afk-journey",
-      "foundAt": "2026-08-31T08:13:58Z",
-      "source": {
-        "name": "Fandom Wiki",
-        "url": "https://afk-journey.fandom.com/wiki/Redemption_Code"
-      },
-      "reward": "11 Invite Letters"
-    },
-    {
-      "id": "afk-journey-afkjzeeebo",
-      "code": "AFKJZEEEBO",
-      "game": "afk-journey",
-      "foundAt": "2026-08-31T08:13:58Z",
-      "source": {
-        "name": "Fandom Wiki",
-        "url": "https://afk-journey.fandom.com/wiki/Redemption_Code"
-      }
-    },
-    {
-      "id": "afk-journey-afkjvolkin",
-      "code": "AFKJVOLKIN",
-      "game": "afk-journey",
-      "foundAt": "2026-08-31T08:13:58Z",
-      "source": {
-        "name": "Fandom Wiki",
-        "url": "https://afk-journey.fandom.com/wiki/Redemption_Code"
-      }
-    },
-    {
-      "id": "afk-journey-afkjupdate",
-      "code": "AFKJUPDATE",
-      "game": "afk-journey",
-      "foundAt": "2026-08-31T08:13:58Z",
-      "source": {
-        "name": "Fandom Wiki",
-        "url": "https://afk-journey.fandom.com/wiki/Redemption_Code"
-      }
-    },
-    {
-      "id": "afk-journey-afkjrubberross",
-      "code": "AFKJRubberRoss",
-      "game": "afk-journey",
-      "foundAt": "2026-08-31T08:13:58Z",
-      "source": {
-        "name": "Fandom Wiki",
-        "url": "https://afk-journey.fandom.com/wiki/Redemption_Code"
-      }
-    },
-    {
-      "id": "afk-journey-afkjourneyzanny",
-      "code": "AFKJourneyZANNY",
-      "game": "afk-journey",
-      "foundAt": "2026-08-31T08:13:58Z",
-      "source": {
-        "name": "Fandom Wiki",
-        "url": "https://afk-journey.fandom.com/wiki/Redemption_Code"
-      }
-    },
-    {
-      "id": "afk-journey-afkjourneyviva",
-      "code": "AFKJourneyVIVA",
-      "game": "afk-journey",
-      "foundAt": "2026-08-31T08:13:58Z",
-      "source": {
-        "name": "Fandom Wiki",
-        "url": "https://afk-journey.fandom.com/wiki/Redemption_Code"
-      }
-    },
-    {
-      "id": "afk-journey-afkjourneyvg",
-      "code": "AFKJourneyVG",
-      "game": "afk-journey",
-      "foundAt": "2026-08-31T08:13:58Z",
-      "source": {
-        "name": "Fandom Wiki",
-        "url": "https://afk-journey.fandom.com/wiki/Redemption_Code"
-      }
-    },
-    {
-      "id": "afk-journey-afkjourneytgt",
-      "code": "AFKJourneyTGT",
-      "game": "afk-journey",
-      "foundAt": "2026-08-31T08:13:58Z",
-      "source": {
-        "name": "Fandom Wiki",
-        "url": "https://afk-journey.fandom.com/wiki/Redemption_Code"
-      }
-    },
-    {
-      "id": "afk-journey-afkjourneysqueezie",
-      "code": "AFKJourneySQUEEZIE",
-      "game": "afk-journey",
-      "foundAt": "2026-08-31T08:13:58Z",
-      "source": {
-        "name": "Fandom Wiki",
-        "url": "https://afk-journey.fandom.com/wiki/Redemption_Code"
-      }
-    },
-    {
-      "id": "afk-journey-afkjourneyspecialedd",
-      "code": "AFKJourneySpecialEDD",
-      "game": "afk-journey",
-      "foundAt": "2026-08-31T08:13:58Z",
-      "source": {
-        "name": "Fandom Wiki",
-        "url": "https://afk-journey.fandom.com/wiki/Redemption_Code"
-      }
-    },
-    {
-      "id": "afk-journey-afkjourneyrug",
-      "code": "AFKJourneyRUG",
-      "game": "afk-journey",
-      "foundAt": "2026-08-31T08:13:58Z",
-      "source": {
-        "name": "Fandom Wiki",
-        "url": "https://afk-journey.fandom.com/wiki/Redemption_Code"
-      }
-    },
-    {
-      "id": "afk-journey-afkjourneypreston",
-      "code": "AFKJourneyPRESTON",
-      "game": "afk-journey",
-      "foundAt": "2026-08-31T08:13:58Z",
-      "source": {
-        "name": "Fandom Wiki",
-        "url": "https://afk-journey.fandom.com/wiki/Redemption_Code"
-      }
-    },
-    {
-      "id": "afk-journey-afkjourneypg0",
-      "code": "AFKJourneyPG0",
-      "game": "afk-journey",
-      "foundAt": "2026-08-31T08:13:58Z",
-      "source": {
-        "name": "Fandom Wiki",
-        "url": "https://afk-journey.fandom.com/wiki/Redemption_Code"
-      }
-    },
-    {
-      "id": "afk-journey-afkjourneynogla",
-      "code": "AFKJourneyNOGLA",
-      "game": "afk-journey",
-      "foundAt": "2026-08-31T08:13:58Z",
-      "source": {
-        "name": "Fandom Wiki",
-        "url": "https://afk-journey.fandom.com/wiki/Redemption_Code"
-      }
-    },
-    {
-      "id": "afk-journey-afkjourneymsa",
-      "code": "AFKJourneyMSA",
-      "game": "afk-journey",
-      "foundAt": "2026-08-31T08:13:58Z",
-      "source": {
-        "name": "Fandom Wiki",
-        "url": "https://afk-journey.fandom.com/wiki/Redemption_Code"
-      }
-    },
-    {
-      "id": "afk-journey-afkjourneylgio",
-      "code": "AFKJourneyLGIO",
-      "game": "afk-journey",
-      "foundAt": "2026-08-31T08:13:58Z",
-      "source": {
-        "name": "Fandom Wiki",
-        "url": "https://afk-journey.fandom.com/wiki/Redemption_Code"
-      }
-    },
-    {
-      "id": "afk-journey-afkjourneyjoshdub",
-      "code": "AFKJourneyJOSHDUB",
-      "game": "afk-journey",
-      "foundAt": "2026-08-31T08:13:58Z",
-      "source": {
-        "name": "Fandom Wiki",
-        "url": "https://afk-journey.fandom.com/wiki/Redemption_Code"
-      }
-    },
-    {
-      "id": "afk-journey-afkjourneyjianhao",
-      "code": "AFKJourneyJIANHAO",
-      "game": "afk-journey",
-      "foundAt": "2026-08-31T08:13:58Z",
-      "source": {
-        "name": "Fandom Wiki",
-        "url": "https://afk-journey.fandom.com/wiki/Redemption_Code"
-      }
-    },
-    {
-      "id": "afk-journey-afkjourneyhi",
-      "code": "AFKJourneyHI",
-      "game": "afk-journey",
-      "foundAt": "2026-08-31T08:13:58Z",
-      "source": {
-        "name": "Fandom Wiki",
-        "url": "https://afk-journey.fandom.com/wiki/Redemption_Code"
-      }
-    },
-    {
-      "id": "afk-journey-afkjourneyde",
-      "code": "AFKJourneyDE",
-      "game": "afk-journey",
-      "foundAt": "2026-08-31T08:13:58Z",
-      "source": {
-        "name": "Fandom Wiki",
-        "url": "https://afk-journey.fandom.com/wiki/Redemption_Code"
-      }
-    },
-    {
       "id": "afk-journey-afkjourneycreator",
       "code": "AFKJourneyCREATOR",
       "game": "afk-journey",
@@ -902,117 +692,8 @@
       "source": {
         "name": "Fandom Wiki",
         "url": "https://afk-journey.fandom.com/wiki/Redemption_Code"
-      }
-    },
-    {
-      "id": "afk-journey-afkjourneycmk",
-      "code": "AFKJourneyCMK",
-      "game": "afk-journey",
-      "foundAt": "2026-08-31T08:13:58Z",
-      "source": {
-        "name": "Fandom Wiki",
-        "url": "https://afk-journey.fandom.com/wiki/Redemption_Code"
-      }
-    },
-    {
-      "id": "afk-journey-afkjourneycarbot",
-      "code": "AFKJourneyCARBOT",
-      "game": "afk-journey",
-      "foundAt": "2026-08-31T08:13:58Z",
-      "source": {
-        "name": "Fandom Wiki",
-        "url": "https://afk-journey.fandom.com/wiki/Redemption_Code"
-      }
-    },
-    {
-      "id": "afk-journey-afkjourneyalpharad",
-      "code": "AFKJourneyALPHARAD",
-      "game": "afk-journey",
-      "foundAt": "2026-08-31T08:13:58Z",
-      "source": {
-        "name": "Fandom Wiki",
-        "url": "https://afk-journey.fandom.com/wiki/Redemption_Code"
-      }
-    },
-    {
-      "id": "afk-journey-afkjourney88",
-      "code": "AFKJourney88",
-      "game": "afk-journey",
-      "foundAt": "2026-08-31T08:13:58Z",
-      "source": {
-        "name": "Fandom Wiki",
-        "url": "https://afk-journey.fandom.com/wiki/Redemption_Code"
-      }
-    },
-    {
-      "id": "afk-journey-afkjnewseason",
-      "code": "AFKJNEWSEASON",
-      "game": "afk-journey",
-      "foundAt": "2026-08-31T08:13:58Z",
-      "source": {
-        "name": "Fandom Wiki",
-        "url": "https://afk-journey.fandom.com/wiki/Redemption_Code"
-      }
-    },
-    {
-      "id": "afk-journey-afkjmtashed",
-      "code": "AFKJMTASHED",
-      "game": "afk-journey",
-      "foundAt": "2026-08-31T08:13:58Z",
-      "source": {
-        "name": "Fandom Wiki",
-        "url": "https://afk-journey.fandom.com/wiki/Redemption_Code"
-      }
-    },
-    {
-      "id": "afk-journey-afkjlilypichu",
-      "code": "AFKJLilyPichu",
-      "game": "afk-journey",
-      "foundAt": "2026-08-31T08:13:58Z",
-      "source": {
-        "name": "Fandom Wiki",
-        "url": "https://afk-journey.fandom.com/wiki/Redemption_Code"
-      }
-    },
-    {
-      "id": "afk-journey-afkjcreationfest",
-      "code": "AFKJCREATIONFEST",
-      "game": "afk-journey",
-      "foundAt": "2026-08-31T08:13:58Z",
-      "source": {
-        "name": "Fandom Wiki",
-        "url": "https://afk-journey.fandom.com/wiki/Redemption_Code"
-      }
-    },
-    {
-      "id": "afk-journey-afkjccprogram",
-      "code": "AFKJCCPROGRAM",
-      "game": "afk-journey",
-      "foundAt": "2026-08-31T08:13:58Z",
-      "source": {
-        "name": "Fandom Wiki",
-        "url": "https://afk-journey.fandom.com/wiki/Redemption_Code"
-      }
-    },
-    {
-      "id": "afk-journey-afkjbarry",
-      "code": "AFKJBARRY",
-      "game": "afk-journey",
-      "foundAt": "2026-08-31T08:13:58Z",
-      "source": {
-        "name": "Fandom Wiki",
-        "url": "https://afk-journey.fandom.com/wiki/Redemption_Code"
-      }
-    },
-    {
-      "id": "afk-journey-afkjapril20",
-      "code": "AFKJAPRIL20",
-      "game": "afk-journey",
-      "foundAt": "2026-08-31T08:13:58Z",
-      "source": {
-        "name": "Fandom Wiki",
-        "url": "https://afk-journey.fandom.com/wiki/Redemption_Code"
-      }
+      },
+      "reward": "200 Diamonds + 18k Gold"
     },
     {
       "id": "zenless-zone-zero-zzzmeiji",
@@ -2146,6 +1827,358 @@
         "url": "https://wutheringwaves.fandom.com/wiki/Redemption_Code"
       },
       "reward": "100 Astrite + 3 Advanced Resonance Potion + 2 Medium Revival Inhaler"
+    },
+    {
+      "id": "afk-journey-markijourney",
+      "code": "MARKIJOURNEY",
+      "game": "afk-journey",
+      "foundAt": "2024-05-18T12:00:00Z",
+      "source": {
+        "name": "Fandom Wiki",
+        "url": "https://afk-journey.fandom.com/wiki/Redemption_Code"
+      },
+      "reward": "1000 Diamonds + 50k Gold"
+    },
+    {
+      "id": "afk-journey-lilith11afkj",
+      "code": "LILITH11AFKJ",
+      "game": "afk-journey",
+      "foundAt": "2024-05-10T12:00:00Z",
+      "source": {
+        "name": "Fandom Wiki",
+        "url": "https://afk-journey.fandom.com/wiki/Redemption_Code"
+      },
+      "reward": "11 Invite Letters"
+    },
+    {
+      "id": "afk-journey-afkjrubberross",
+      "code": "AFKJRubberRoss",
+      "game": "afk-journey",
+      "foundAt": "2024-05-10T12:00:00Z",
+      "source": {
+        "name": "Fandom Wiki",
+        "url": "https://afk-journey.fandom.com/wiki/Redemption_Code"
+      },
+      "reward": "300 Diamonds + 50k Gold"
+    },
+    {
+      "id": "afk-journey-afkjlilypichu",
+      "code": "AFKJLilyPichu",
+      "game": "afk-journey",
+      "foundAt": "2024-05-10T12:00:00Z",
+      "source": {
+        "name": "Fandom Wiki",
+        "url": "https://afk-journey.fandom.com/wiki/Redemption_Code"
+      },
+      "reward": "300 Diamonds + 50k Gold"
+    },
+    {
+      "id": "afk-journey-afkjzeeebo",
+      "code": "AFKJZEEEBO",
+      "game": "afk-journey",
+      "foundAt": "2024-05-05T12:00:00Z",
+      "source": {
+        "name": "Fandom Wiki",
+        "url": "https://afk-journey.fandom.com/wiki/Redemption_Code"
+      },
+      "reward": "100 Diamonds + 20k Gold"
+    },
+    {
+      "id": "afk-journey-afkjvolkin",
+      "code": "AFKJVOLKIN",
+      "game": "afk-journey",
+      "foundAt": "2024-05-05T12:00:00Z",
+      "source": {
+        "name": "Fandom Wiki",
+        "url": "https://afk-journey.fandom.com/wiki/Redemption_Code"
+      },
+      "reward": "100 Diamonds + 20k Gold"
+    },
+    {
+      "id": "afk-journey-afkjnewseason",
+      "code": "AFKJNEWSEASON",
+      "game": "afk-journey",
+      "foundAt": "2024-05-05T12:00:00Z",
+      "source": {
+        "name": "Fandom Wiki",
+        "url": "https://afk-journey.fandom.com/wiki/Redemption_Code"
+      },
+      "reward": "500 Diamonds + 50k Gold"
+    },
+    {
+      "id": "afk-journey-afkjmtashed",
+      "code": "AFKJMTASHED",
+      "game": "afk-journey",
+      "foundAt": "2024-05-05T12:00:00Z",
+      "source": {
+        "name": "Fandom Wiki",
+        "url": "https://afk-journey.fandom.com/wiki/Redemption_Code"
+      },
+      "reward": "100 Diamonds + 20k Gold"
+    },
+    {
+      "id": "afk-journey-afkjbarry",
+      "code": "AFKJBARRY",
+      "game": "afk-journey",
+      "foundAt": "2024-05-05T12:00:00Z",
+      "source": {
+        "name": "Fandom Wiki",
+        "url": "https://afk-journey.fandom.com/wiki/Redemption_Code"
+      },
+      "reward": "100 Diamonds + 20k Gold"
+    },
+    {
+      "id": "afk-journey-afkjupdate",
+      "code": "AFKJUPDATE",
+      "game": "afk-journey",
+      "foundAt": "2024-05-04T12:00:00Z",
+      "source": {
+        "name": "Fandom Wiki",
+        "url": "https://afk-journey.fandom.com/wiki/Redemption_Code"
+      },
+      "reward": "100 Diamonds + 20k Gold"
+    },
+    {
+      "id": "afk-journey-afkjcreationfest",
+      "code": "AFKJCREATIONFEST",
+      "game": "afk-journey",
+      "foundAt": "2024-05-04T12:00:00Z",
+      "source": {
+        "name": "Fandom Wiki",
+        "url": "https://afk-journey.fandom.com/wiki/Redemption_Code"
+      },
+      "reward": "200 Diamonds + 50k Gold"
+    },
+    {
+      "id": "afk-journey-afkjccprogram",
+      "code": "AFKJCCPROGRAM",
+      "game": "afk-journey",
+      "foundAt": "2024-05-04T12:00:00Z",
+      "source": {
+        "name": "Fandom Wiki",
+        "url": "https://afk-journey.fandom.com/wiki/Redemption_Code"
+      },
+      "reward": "100 Diamonds + 10k Gold"
+    },
+    {
+      "id": "afk-journey-afkjapril20",
+      "code": "AFKJAPRIL20",
+      "game": "afk-journey",
+      "foundAt": "2024-04-20T12:00:00Z",
+      "source": {
+        "name": "Fandom Wiki",
+        "url": "https://afk-journey.fandom.com/wiki/Redemption_Code"
+      },
+      "reward": "100 Diamonds + 50k Gold"
+    },
+    {
+      "id": "afk-journey-afkjourneyalpharad",
+      "code": "AFKJourneyALPHARAD",
+      "game": "afk-journey",
+      "foundAt": "2024-04-04T12:00:00Z",
+      "source": {
+        "name": "Fandom Wiki",
+        "url": "https://afk-journey.fandom.com/wiki/Redemption_Code"
+      },
+      "reward": "100 Diamonds + 18k Gold"
+    },
+    {
+      "id": "afk-journey-afkjourneypreston",
+      "code": "AFKJourneyPRESTON",
+      "game": "afk-journey",
+      "foundAt": "2024-04-03T12:00:00Z",
+      "source": {
+        "name": "Fandom Wiki",
+        "url": "https://afk-journey.fandom.com/wiki/Redemption_Code"
+      },
+      "reward": "200 Diamonds + 20k Gold"
+    },
+    {
+      "id": "afk-journey-afkjourneyhi",
+      "code": "AFKJourneyHI",
+      "game": "afk-journey",
+      "foundAt": "2024-04-03T12:00:00Z",
+      "source": {
+        "name": "Fandom Wiki",
+        "url": "https://afk-journey.fandom.com/wiki/Redemption_Code"
+      },
+      "reward": "100 Diamonds + 18k Gold"
+    },
+    {
+      "id": "afk-journey-afkjourneyspecialedd",
+      "code": "AFKJourneySpecialEDD",
+      "game": "afk-journey",
+      "foundAt": "2024-04-02T12:00:00Z",
+      "source": {
+        "name": "Fandom Wiki",
+        "url": "https://afk-journey.fandom.com/wiki/Redemption_Code"
+      },
+      "reward": "100 Diamonds + 18k Gold"
+    },
+    {
+      "id": "afk-journey-afkjourneyrug",
+      "code": "AFKJourneyRUG",
+      "game": "afk-journey",
+      "foundAt": "2024-04-01T12:00:00Z",
+      "source": {
+        "name": "Fandom Wiki",
+        "url": "https://afk-journey.fandom.com/wiki/Redemption_Code"
+      },
+      "reward": "200 Diamonds + 20k Gold"
+    },
+    {
+      "id": "afk-journey-afkjourneypg0",
+      "code": "AFKJourneyPG0",
+      "game": "afk-journey",
+      "foundAt": "2024-04-01T12:00:00Z",
+      "source": {
+        "name": "Fandom Wiki",
+        "url": "https://afk-journey.fandom.com/wiki/Redemption_Code"
+      },
+      "reward": "100 Diamonds + 18k Gold"
+    },
+    {
+      "id": "afk-journey-afkjourneylgio",
+      "code": "AFKJourneyLGIO",
+      "game": "afk-journey",
+      "foundAt": "2024-03-31T12:00:00Z",
+      "source": {
+        "name": "Fandom Wiki",
+        "url": "https://afk-journey.fandom.com/wiki/Redemption_Code"
+      },
+      "reward": "200 Diamonds + 20k Gold"
+    },
+    {
+      "id": "afk-journey-afkjourneyjoshdub",
+      "code": "AFKJourneyJOSHDUB",
+      "game": "afk-journey",
+      "foundAt": "2024-03-31T12:00:00Z",
+      "source": {
+        "name": "Fandom Wiki",
+        "url": "https://afk-journey.fandom.com/wiki/Redemption_Code"
+      },
+      "reward": "100 Diamonds + 18k Gold"
+    },
+    {
+      "id": "afk-journey-afkjourneyjianhao",
+      "code": "AFKJourneyJIANHAO",
+      "game": "afk-journey",
+      "foundAt": "2024-03-31T12:00:00Z",
+      "source": {
+        "name": "Fandom Wiki",
+        "url": "https://afk-journey.fandom.com/wiki/Redemption_Code"
+      },
+      "reward": "200 Diamonds + 20k Gold"
+    },
+    {
+      "id": "afk-journey-afkjourneyvg",
+      "code": "AFKJourneyVG",
+      "game": "afk-journey",
+      "foundAt": "2024-03-30T12:00:00Z",
+      "source": {
+        "name": "Fandom Wiki",
+        "url": "https://afk-journey.fandom.com/wiki/Redemption_Code"
+      },
+      "reward": "200 Diamonds + 20k Gold"
+    },
+    {
+      "id": "afk-journey-afkjourneynogla",
+      "code": "AFKJourneyNOGLA",
+      "game": "afk-journey",
+      "foundAt": "2024-03-30T12:00:00Z",
+      "source": {
+        "name": "Fandom Wiki",
+        "url": "https://afk-journey.fandom.com/wiki/Redemption_Code"
+      },
+      "reward": "200 Diamonds + 20k Gold"
+    },
+    {
+      "id": "afk-journey-afkjourneycmk",
+      "code": "AFKJourneyCMK",
+      "game": "afk-journey",
+      "foundAt": "2024-03-30T12:00:00Z",
+      "source": {
+        "name": "Fandom Wiki",
+        "url": "https://afk-journey.fandom.com/wiki/Redemption_Code"
+      },
+      "reward": "100 Diamonds + 18k Gold"
+    },
+    {
+      "id": "afk-journey-afkjourneyviva",
+      "code": "AFKJourneyVIVA",
+      "game": "afk-journey",
+      "foundAt": "2024-03-29T12:00:00Z",
+      "source": {
+        "name": "Fandom Wiki",
+        "url": "https://afk-journey.fandom.com/wiki/Redemption_Code"
+      },
+      "reward": "200 Diamonds + 20k Gold"
+    },
+    {
+      "id": "afk-journey-afkjourneytgt",
+      "code": "AFKJourneyTGT",
+      "game": "afk-journey",
+      "foundAt": "2024-03-29T12:00:00Z",
+      "source": {
+        "name": "Fandom Wiki",
+        "url": "https://afk-journey.fandom.com/wiki/Redemption_Code"
+      },
+      "reward": "200 Diamonds + 20k Gold"
+    },
+    {
+      "id": "afk-journey-afkjourneysqueezie",
+      "code": "AFKJourneySQUEEZIE",
+      "game": "afk-journey",
+      "foundAt": "2024-03-29T12:00:00Z",
+      "source": {
+        "name": "Fandom Wiki",
+        "url": "https://afk-journey.fandom.com/wiki/Redemption_Code"
+      },
+      "reward": "200 Diamonds + 20k Gold"
+    },
+    {
+      "id": "afk-journey-afkjourneymsa",
+      "code": "AFKJourneyMSA",
+      "game": "afk-journey",
+      "foundAt": "2024-03-29T12:00:00Z",
+      "source": {
+        "name": "Fandom Wiki",
+        "url": "https://afk-journey.fandom.com/wiki/Redemption_Code"
+      },
+      "reward": "200 Diamonds + 20k Gold"
+    },
+    {
+      "id": "afk-journey-afkjourneyde",
+      "code": "AFKJourneyDE",
+      "game": "afk-journey",
+      "foundAt": "2024-03-29T12:00:00Z",
+      "source": {
+        "name": "Fandom Wiki",
+        "url": "https://afk-journey.fandom.com/wiki/Redemption_Code"
+      },
+      "reward": "100 Diamonds + 18k Gold"
+    },
+    {
+      "id": "afk-journey-afkjourneyzanny",
+      "code": "AFKJourneyZANNY",
+      "game": "afk-journey",
+      "foundAt": "2024-03-28T12:00:00Z",
+      "source": {
+        "name": "Fandom Wiki",
+        "url": "https://afk-journey.fandom.com/wiki/Redemption_Code"
+      },
+      "reward": "100 Diamonds + 18k Gold"
+    },
+    {
+      "id": "afk-journey-afkjourneycarbot",
+      "code": "AFKJourneyCARBOT",
+      "game": "afk-journey",
+      "foundAt": "2024-03-28T12:00:00Z",
+      "source": {
+        "name": "Fandom Wiki",
+        "url": "https://afk-journey.fandom.com/wiki/Redemption_Code"
+      },
+      "reward": "200 Diamonds + 20k Gold"
     }
   ]
 }

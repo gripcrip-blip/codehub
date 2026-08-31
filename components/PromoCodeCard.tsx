@@ -1,7 +1,7 @@
 "use client";
 
 import { CopyButton } from "@/components/CopyButton";
-import { isRecentlyFound } from "@/lib/codes";
+import { displayReward, isRecentlyFound } from "@/lib/codes";
 import type { Messages } from "@/lib/i18n";
 import type { Locale } from "@/lib/locales";
 import { formatAbsoluteFound, formatFoundLabel } from "@/lib/time";
@@ -37,6 +37,7 @@ export function PromoCodeCard({
     ? formatFoundLabel(code.foundAt, locale)
     : formatAbsoluteFound(code.foundAt, locale);
   const isNew = isClient && isRecentlyFound(code.foundAt);
+  const reward = displayReward(code.reward);
 
   if (compact) {
     return (
@@ -104,8 +105,8 @@ export function PromoCodeCard({
           <p className="select-all font-mono text-xl font-semibold tracking-wide text-foreground sm:text-2xl">
             {code.code}
           </p>
-          {code.reward ? (
-            <p className="mt-1.5 text-sm leading-6 text-zinc-300">{code.reward}</p>
+          {reward ? (
+            <p className="mt-1.5 text-sm leading-6 text-zinc-300">{reward}</p>
           ) : null}
           <time dateTime={code.foundAt} className="mt-2 block text-sm text-muted">
             {found}
