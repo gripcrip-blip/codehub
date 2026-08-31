@@ -1,5 +1,6 @@
 "use client";
 
+import { GameIcon } from "@/components/GameIcon";
 import { games } from "@/data/games";
 import type { Messages } from "@/lib/i18n";
 import type { Locale } from "@/lib/locales";
@@ -112,7 +113,7 @@ export function Search({ locale, messages, codes }: SearchProps) {
                       }}
                       className="flex items-center gap-2 px-3 py-2 text-sm text-foreground hover:bg-zinc-900"
                     >
-                      <span aria-hidden>{game.icon}</span>
+                      <GameIcon game={game} size="sm" />
                       {game.name}
                     </Link>
                   ))}

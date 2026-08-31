@@ -1,3 +1,4 @@
+import { GameIcon } from "@/components/GameIcon";
 import { gameCodesPath, localizedPath } from "@/lib/paths";
 import type { Game } from "@/lib/types";
 import type { Locale } from "@/lib/locales";
@@ -46,9 +47,7 @@ export function GameCard({
     >
       <div className="flex items-start justify-between gap-3">
         <div className="flex items-center gap-3">
-          <span className="text-xl" aria-hidden>
-            {game.icon}
-          </span>
+          <GameIcon game={game} size={featured ? "lg" : "md"} />
           <div>
             <p className="text-sm font-medium text-foreground group-hover:text-white">
               {game.name}

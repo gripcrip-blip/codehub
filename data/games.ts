@@ -15,7 +15,7 @@ export const games: Game[] = [
     shortName: "Genshin",
     description:
       "Find the latest Genshin Impact promo codes, rewards and redemption information in one place.",
-    icon: "🎮",
+    icon: "/games/genshin-impact.png",
     active: true,
     featured: true,
     redemptionUrl: "https://genshin.hoyoverse.com/{locale}/gift",
@@ -27,7 +27,7 @@ export const games: Game[] = [
     shortName: "Star Rail",
     description:
       "Find the latest Honkai: Star Rail promo codes, rewards and redemption information in one place.",
-    icon: "🚂",
+    icon: "/games/honkai-star-rail.png",
     active: true,
     featured: true,
     redemptionUrl: "https://hsr.hoyoverse.com/gift?lang={lang}",
@@ -39,7 +39,7 @@ export const games: Game[] = [
     shortName: "ZZZ",
     description:
       "Find the latest Zenless Zone Zero promo codes, rewards and redemption information in one place.",
-    icon: "🧰",
+    icon: "/games/zenless-zone-zero.png",
     active: true,
     featured: true,
     redemptionUrl: "https://zenless.hoyoverse.com/redemption?lang={lang}",

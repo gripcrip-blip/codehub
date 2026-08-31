@@ -1,5 +1,6 @@
 "use client";
 
+import { GameIcon } from "@/components/GameIcon";
 import { games } from "@/data/games";
 import type { Messages } from "@/lib/i18n";
 import type { Locale } from "@/lib/locales";
@@ -38,7 +39,7 @@ export function GameSidebar({ locale, messages }: GameSidebarProps) {
                       : "border-border bg-surface text-muted hover:border-zinc-600 hover:text-foreground"
                   }`}
                 >
-                  <span aria-hidden>{game.icon}</span>
+                  <GameIcon game={game} size="sm" />
                   {game.shortName}
                 </Link>
               </li>
@@ -76,9 +77,7 @@ export function GameSidebar({ locale, messages }: GameSidebarProps) {
                       : undefined
                   }
                 >
-                  <span className="w-5 text-center" aria-hidden>
-                    {game.icon}
-                  </span>
+                  <GameIcon game={game} size="md" />
                   <span className="leading-tight">{game.name}</span>
                 </Link>
               </li>
