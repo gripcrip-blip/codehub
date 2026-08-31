@@ -8,7 +8,7 @@ import { getCodesByGame, splitCodes } from "@/lib/codes";
 import { getMessages, t } from "@/lib/i18n";
 import { resolveLocale } from "@/lib/locale";
 import { locales } from "@/lib/locales";
-import { pageMetadata } from "@/lib/seo";
+import { gameAlias, labeledGameName, pageMetadata } from "@/lib/seo";
 import type { Metadata } from "next";
 import { notFound } from "next/navigation";
 
@@ -30,11 +30,12 @@ export async function generateMetadata({
   const game = getGameByCodesSlug(slug);
   if (!game) return {};
   const messages = getMessages(locale);
+  const label = labeledGameName(game, gameAlias(messages, game.slug));
   return pageMetadata({
     locale,
     path: `/${slug}`,
-    title: t(messages.meta.gameTitle, { game: game.name }),
-    description: t(messages.meta.gameDescription, { game: game.name }),
+    title: t(messages.meta.gameTitle, { game: label }),
+    description: t(messages.meta.gameDescription, { game: label }),
   });
 }
 
@@ -51,6 +52,7 @@ export default async function GamePage({
   const messages = getMessages(locale);
   const codes = getCodesByGame(game.slug);
   const { latest, history } = splitCodes(codes);
+  const label = labeledGameName(game, gameAlias(messages, game.slug));
 
   return (
     <div>
@@ -63,10 +65,10 @@ export default async function GamePage({
       />
 
       <h1 className="mt-4 text-3xl font-semibold tracking-tight text-foreground">
-        {t(messages.codes.pageHeading, { game: game.name })}
+        {t(messages.codes.pageHeading, { game: label })}
       </h1>
       <p className="mt-2 max-w-2xl text-sm leading-6 text-muted sm:text-base">
-        {t(messages.codes.pageIntro, { game: game.name })}
+        {t(messages.codes.pageIntro, { game: label })}
       </p>
 
       <div className="mt-5">

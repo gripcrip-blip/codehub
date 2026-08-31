@@ -43,7 +43,22 @@
     "more": "更多游戏",
     "new": "新作",
     "comingSoon": "即将推出",
-    "open": "查看兑换码"
+    "open": "查看兑换码",
+    "openNamed": "{alias} 兑换码"
+  },
+  "gameAliases": {
+    "genshin-impact": "原神",
+    "honkai-star-rail": "星穹铁道",
+    "zenless-zone-zero": "绝区零",
+    "honkai-impact-3rd": "崩坏3",
+    "tears-of-themis": "未定事件簿",
+    "wuthering-waves": "鸣潮",
+    "nikke": "NIKKE",
+    "fate-grand-order": "FGO",
+    "pokemon-tcg-pocket": "宝可梦TCG",
+    "arknights": "明日方舟",
+    "love-and-deepspace": "恋与深空",
+    "afk-journey": "AFK Journey"
   },
   "codes": {
     "latest": "最新兑换码",

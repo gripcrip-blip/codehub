@@ -6,6 +6,7 @@ import { displayReward } from "@/lib/codes";
 import type { Messages } from "@/lib/i18n";
 import type { Locale } from "@/lib/locales";
 import { gameCodesPath, localizedPath } from "@/lib/paths";
+import { gameAlias } from "@/lib/seo";
 import type { PromoCode } from "@/lib/types";
 import Link from "next/link";
 import { useEffect, useMemo, useRef, useState } from "react";
@@ -26,13 +27,16 @@ export function Search({ locale, messages, codes }: SearchProps) {
 
   const gameResults = useMemo(() => {
     if (!q) return [];
-    return games.filter(
-      (game) =>
+    return games.filter((game) => {
+      const alias = gameAlias(messages, game.slug).toLowerCase();
+      return (
         game.name.toLowerCase().includes(q) ||
         game.shortName.toLowerCase().includes(q) ||
-        game.slug.includes(q),
-    );
-  }, [q]);
+        game.slug.includes(q) ||
+        (alias && alias.includes(q))
+      );
+    });
+  }, [q, messages]);
 
   const codeResults = useMemo(() => {
     if (!q) return [];

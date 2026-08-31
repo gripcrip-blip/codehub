@@ -43,7 +43,22 @@
     "more": "Другие игры",
     "new": "Новое",
     "comingSoon": "Скоро",
-    "open": "Открыть промокоды"
+    "open": "Открыть промокоды",
+    "openNamed": "Промокоды {alias}"
+  },
+  "gameAliases": {
+    "genshin-impact": "Геншин",
+    "honkai-star-rail": "Стар Рейл",
+    "zenless-zone-zero": "Зенлес",
+    "honkai-impact-3rd": "Хонкай 3",
+    "tears-of-themis": "Темис",
+    "wuthering-waves": "ВуВа",
+    "nikke": "Нике",
+    "fate-grand-order": "ФГО",
+    "pokemon-tcg-pocket": "Покемон TCG",
+    "arknights": "Аркнайтс",
+    "love-and-deepspace": "Дипспейс",
+    "afk-journey": "АФК Джорни"
   },
   "codes": {
     "latest": "Последние промокоды",

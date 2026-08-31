@@ -1,7 +1,19 @@
+import type { Messages } from "@/lib/i18n";
+import type { Game } from "@/lib/types";
 import type { Metadata } from "next";
 import { localeMeta, locales, type Locale } from "@/lib/locales";
 import { localizedPath } from "@/lib/paths";
 import { SITE_NAME, SITE_URL } from "@/lib/site";
+
+export function gameAlias(messages: Messages, slug: string): string {
+  return (messages.gameAliases as Record<string, string>)[slug]?.trim() ?? "";
+}
+
+export function labeledGameName(game: Pick<Game, "name">, alias: string): string {
+  if (!alias) return game.name;
+  if (game.name.toLowerCase().includes(alias.toLowerCase())) return game.name;
+  return `${alias} (${game.name})`;
+}
 
 export function pageMetadata({
   locale,

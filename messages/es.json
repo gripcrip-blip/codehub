@@ -43,7 +43,22 @@
     "more": "Más juegos",
     "new": "Nuevo",
     "comingSoon": "Próximamente",
-    "open": "Ver códigos"
+    "open": "Ver códigos",
+    "openNamed": "Códigos de {alias}"
+  },
+  "gameAliases": {
+    "genshin-impact": "Genshin",
+    "honkai-star-rail": "Star Rail",
+    "zenless-zone-zero": "ZZZ",
+    "honkai-impact-3rd": "Honkai 3rd",
+    "tears-of-themis": "Themis",
+    "wuthering-waves": "WuWa",
+    "nikke": "NIKKE",
+    "fate-grand-order": "FGO",
+    "pokemon-tcg-pocket": "TCG Pocket",
+    "arknights": "Arknights",
+    "love-and-deepspace": "Deepspace",
+    "afk-journey": "AFK Journey"
   },
   "codes": {
     "latest": "Códigos promocionales recientes",

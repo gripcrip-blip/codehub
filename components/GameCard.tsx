@@ -1,8 +1,9 @@
 import { GameIcon } from "@/components/GameIcon";
-import { gameCodesPath, localizedPath } from "@/lib/paths";
-import type { Game } from "@/lib/types";
+import { t, type Messages } from "@/lib/i18n";
 import type { Locale } from "@/lib/locales";
-import type { Messages } from "@/lib/i18n";
+import { gameCodesPath, localizedPath } from "@/lib/paths";
+import { gameAlias } from "@/lib/seo";
+import type { Game } from "@/lib/types";
 import Link from "next/link";
 
 type GameCardProps = {
@@ -21,6 +22,10 @@ export function GameCard({
   active = false,
 }: GameCardProps) {
   const href = localizedPath(locale, gameCodesPath(game));
+  const alias = gameAlias(messages, game.slug);
+  const openLabel = alias
+    ? t(messages.games.openNamed, { alias })
+    : messages.games.open;
   const badge =
     game.badge === "new"
       ? messages.games.new
@@ -52,7 +57,7 @@ export function GameCard({
             <p className="text-sm font-medium text-foreground group-hover:text-white">
               {game.name}
             </p>
-            <p className="mt-0.5 text-xs text-muted">{messages.games.open}</p>
+            <p className="mt-0.5 text-xs text-muted">{openLabel}</p>
           </div>
         </div>
         {badge ? (

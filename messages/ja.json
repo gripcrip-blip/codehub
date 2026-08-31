@@ -43,7 +43,22 @@
     "more": "その他のゲーム",
     "new": "新作",
     "comingSoon": "近日公開",
-    "open": "コードを見る"
+    "open": "コードを見る",
+    "openNamed": "{alias}のコード"
+  },
+  "gameAliases": {
+    "genshin-impact": "原神",
+    "honkai-star-rail": "スターレイル",
+    "zenless-zone-zero": "ゼンゼロ",
+    "honkai-impact-3rd": "崩壊3rd",
+    "tears-of-themis": "テミス",
+    "wuthering-waves": "鳴潮",
+    "nikke": "NIKKE",
+    "fate-grand-order": "FGO",
+    "pokemon-tcg-pocket": "ポケモンTCG",
+    "arknights": "アークナイツ",
+    "love-and-deepspace": "ディープスペース",
+    "afk-journey": "AFK Journey"
   },
   "codes": {
     "latest": "最新のギフトコード",
