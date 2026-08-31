@@ -7,3 +7,8 @@
 [build.environment]
   NODE_VERSION = "22"
   NEXT_PUBLIC_SITE_URL = "https://promogacha.netlify.app"
+
+[[headers]]
+  for = "/google8bcdf9cdfd35241d.html"
+  [headers.values]
+    X-Robots-Tag = "noindex, nofollow"
