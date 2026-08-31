@@ -1,8 +1,8 @@
-# CODEHUB
+# PromoHoyo
 
 Fan-made aggregator of HoYoverse promo codes. No ads. No accounts. No backend.
 
-Promo codes live in `data/codes.json`. A Python parser fills that file from public sources. GitHub Actions runs the parser every day, commits updates, and deploys the site to [Netlify](https://gripcrip-codehub.netlify.app).
+Promo codes live in `data/codes.json`. A Python parser fills that file from public sources. GitHub Actions runs the parser every day, commits updates, and deploys the site to [Netlify](https://promohoyo.netlify.app).
 
 ## Run locally
 

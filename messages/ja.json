@@ -4,17 +4,17 @@
     "homeDescription": "広告も余計な文章もなく、Genshin Impact、Honkai: Star Rail、Zenless Zone Zero など HoYoverse の最新ギフトコードをすぐコピーできます。",
     "gameTitle": "{game} のコード — 最新ギフトコード",
     "gameDescription": "{game} の最新ギフトコードと報酬をまとめて確認。ワンクリックでコピーし、発見日時もわかります。",
-    "aboutTitle": "このサイトについて — CODEHUB",
-    "aboutDescription": "CODEHUB はファン制作の HoYoverse ギフトコードまとめです。広告なし、ノイズなし、コードだけ。",
-    "disclaimerTitle": "免責事項 — CODEHUB",
-    "disclaimerDescription": "CODEHUB は独立したファンプロジェクトであり、HoYoverse とは関係ありません。",
-    "privacyTitle": "プライバシー — CODEHUB",
-    "privacyDescription": "CODEHUB は個人データを収集せず、広告もトラッキング Cookie も使いません。",
-    "notFoundTitle": "ページが見つかりません — CODEHUB",
+    "aboutTitle": "このサイトについて — PromoHoyo",
+    "aboutDescription": "PromoHoyo はファン制作の HoYoverse ギフトコードまとめです。広告なし、ノイズなし、コードだけ。",
+    "disclaimerTitle": "免責事項 — PromoHoyo",
+    "disclaimerDescription": "PromoHoyo は独立したファンプロジェクトであり、HoYoverse とは関係ありません。",
+    "privacyTitle": "プライバシー — PromoHoyo",
+    "privacyDescription": "PromoHoyo は個人データを収集せず、広告もトラッキング Cookie も使いません。",
+    "notFoundTitle": "ページが見つかりません — PromoHoyo",
     "notFoundDescription": "このページは存在しません。"
   },
   "brand": {
-    "name": "CODEHUB",
+    "name": "PromoHoyo",
     "tagline": "HoYoverse コード"
   },
   "nav": {

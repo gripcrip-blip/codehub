@@ -1,4 +1,4 @@
-export const SITE_NAME = "CODEHUB";
+export const SITE_NAME = "PromoHoyo";
 export const SITE_URL = (
-  process.env.NEXT_PUBLIC_SITE_URL || "https://gripcrip-codehub.netlify.app"
+  process.env.NEXT_PUBLIC_SITE_URL || "https://promohoyo.netlify.app"
 ).replace(/\/$/, "");

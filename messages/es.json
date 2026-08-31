@@ -4,17 +4,17 @@
     "homeDescription": "Encuentra los códigos promocionales de HoYoverse sin anuncios ni relleno. Copia al instante códigos de Genshin Impact, Honkai: Star Rail, Zenless Zone Zero y más.",
     "gameTitle": "Códigos de {game} — códigos promocionales recientes",
     "gameDescription": "Encuentra los códigos promocionales más recientes de {game} y sus recompensas. Cópialos al instante y mira cuándo se encontraron.",
-    "aboutTitle": "Acerca de — CODEHUB",
-    "aboutDescription": "CODEHUB es un agregador hecho por fans de códigos promocionales de HoYoverse. Sin anuncios ni ruido: solo códigos.",
-    "disclaimerTitle": "Aviso legal — CODEHUB",
-    "disclaimerDescription": "CODEHUB es un proyecto independiente hecho por fans y no está afiliado a HoYoverse.",
-    "privacyTitle": "Privacidad — CODEHUB",
-    "privacyDescription": "CODEHUB no recopila datos personales, no muestra anuncios y no usa cookies de seguimiento.",
-    "notFoundTitle": "Página no encontrada — CODEHUB",
+    "aboutTitle": "Acerca de — PromoHoyo",
+    "aboutDescription": "PromoHoyo es un agregador hecho por fans de códigos promocionales de HoYoverse. Sin anuncios ni ruido: solo códigos.",
+    "disclaimerTitle": "Aviso legal — PromoHoyo",
+    "disclaimerDescription": "PromoHoyo es un proyecto independiente hecho por fans y no está afiliado a HoYoverse.",
+    "privacyTitle": "Privacidad — PromoHoyo",
+    "privacyDescription": "PromoHoyo no recopila datos personales, no muestra anuncios y no usa cookies de seguimiento.",
+    "notFoundTitle": "Página no encontrada — PromoHoyo",
     "notFoundDescription": "Esta página no existe."
   },
   "brand": {
-    "name": "CODEHUB",
+    "name": "PromoHoyo",
     "tagline": "Códigos HoYoverse"
   },
   "nav": {

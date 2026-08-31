@@ -3,6 +3,7 @@ import { Search } from "@/components/Search";
 import type { Messages } from "@/lib/i18n";
 import type { Locale } from "@/lib/locales";
 import { localizedPath } from "@/lib/paths";
+import { SITE_NAME } from "@/lib/site";
 import type { PromoCode } from "@/lib/types";
 import Link from "next/link";
 
@@ -18,7 +19,7 @@ export function Header({ locale, messages, codes }: HeaderProps) {
       <div className="mx-auto flex max-w-6xl items-center gap-3 px-4 py-3 sm:gap-4 sm:px-6 lg:px-8">
         <Link href={localizedPath(locale, "/")} className="shrink-0">
           <span className="block font-semibold tracking-tight text-foreground">
-            {messages.brand.name}
+            {SITE_NAME}
           </span>
           <span className="block text-[11px] text-muted">
             {messages.brand.tagline}

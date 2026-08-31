@@ -17,7 +17,7 @@ ROOT = Path(__file__).resolve().parents[1]
 CODES_PATH = ROOT / "data" / "codes.json"
 
 USER_AGENT = (
-    "CODEHUB/1.0 (+https://github.com/gripcrip-blip/codehub; promo-code aggregator)"
+    "PromoHoyo/1.0 (+https://github.com/gripcrip-blip/codehub; promo-code aggregator)"
 )
 
 GAME_SLUGS = {

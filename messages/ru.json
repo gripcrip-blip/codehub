@@ -4,17 +4,17 @@
     "homeDescription": "Свежие промокоды HoYoverse без рекламы и лишнего текста. Копируйте коды для Genshin Impact, Honkai: Star Rail, Zenless Zone Zero и других игр.",
     "gameTitle": "Коды {game} — свежие промокоды",
     "gameDescription": "Свежие промокоды {game} и награды к ним. Копируйте код одним нажатием и смотрите, когда он был найден.",
-    "aboutTitle": "О проекте — CODEHUB",
-    "aboutDescription": "CODEHUB — фанатский агрегатор промокодов HoYoverse. Без рекламы и лишнего шума, только коды.",
-    "disclaimerTitle": "Отказ от ответственности — CODEHUB",
-    "disclaimerDescription": "CODEHUB — независимый фанатский проект и не связан с HoYoverse.",
-    "privacyTitle": "Конфиденциальность — CODEHUB",
-    "privacyDescription": "CODEHUB не собирает персональные данные, не показывает рекламу и не использует трекинг-cookie.",
-    "notFoundTitle": "Страница не найдена — CODEHUB",
+    "aboutTitle": "О проекте — PromoHoyo",
+    "aboutDescription": "PromoHoyo — фанатский агрегатор промокодов HoYoverse. Без рекламы и лишнего шума, только коды.",
+    "disclaimerTitle": "Отказ от ответственности — PromoHoyo",
+    "disclaimerDescription": "PromoHoyo — независимый фанатский проект и не связан с HoYoverse.",
+    "privacyTitle": "Конфиденциальность — PromoHoyo",
+    "privacyDescription": "PromoHoyo не собирает персональные данные, не показывает рекламу и не использует трекинг-cookie.",
+    "notFoundTitle": "Страница не найдена — PromoHoyo",
     "notFoundDescription": "Такой страницы нет."
   },
   "brand": {
-    "name": "CODEHUB",
+    "name": "PromoHoyo",
     "tagline": "Коды HoYoverse"
   },
   "nav": {

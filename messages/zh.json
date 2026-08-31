@@ -4,17 +4,17 @@
     "homeDescription": "没有广告、没有灌水。一键复制 Genshin Impact、Honkai: Star Rail、Zenless Zone Zero 等 HoYoverse 游戏的最新兑换码。",
     "gameTitle": "{game} 兑换码 — 最新促销码",
     "gameDescription": "查找最新的 {game} 兑换码与奖励。一键复制，并查看发现时间。",
-    "aboutTitle": "关于 — CODEHUB",
-    "aboutDescription": "CODEHUB 是由玩家制作的 HoYoverse 兑换码汇总站。没有广告，没有干扰，只有兑换码。",
-    "disclaimerTitle": "免责声明 — CODEHUB",
-    "disclaimerDescription": "CODEHUB 是独立的玩家项目，与 HoYoverse 没有任何从属关系。",
-    "privacyTitle": "隐私 — CODEHUB",
-    "privacyDescription": "CODEHUB 不收集个人数据，不展示广告，也不使用跟踪 Cookie。",
-    "notFoundTitle": "页面不存在 — CODEHUB",
+    "aboutTitle": "关于 — PromoHoyo",
+    "aboutDescription": "PromoHoyo 是由玩家制作的 HoYoverse 兑换码汇总站。没有广告，没有干扰，只有兑换码。",
+    "disclaimerTitle": "免责声明 — PromoHoyo",
+    "disclaimerDescription": "PromoHoyo 是独立的玩家项目，与 HoYoverse 没有任何从属关系。",
+    "privacyTitle": "隐私 — PromoHoyo",
+    "privacyDescription": "PromoHoyo 不收集个人数据，不展示广告，也不使用跟踪 Cookie。",
+    "notFoundTitle": "页面不存在 — PromoHoyo",
     "notFoundDescription": "该页面不存在。"
   },
   "brand": {
-    "name": "CODEHUB",
+    "name": "PromoHoyo",
     "tagline": "HoYoverse 兑换码"
   },
   "nav": {
