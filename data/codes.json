@@ -1,7 +1,18 @@
 {
   "demo": false,
-  "updatedAt": "2026-08-31T08:26:07Z",
+  "updatedAt": "2026-09-01T06:02:16Z",
   "codes": [
+    {
+      "id": "genshin-impact-dugodwkrhakdnj",
+      "code": "DUGODWKRHAKDNJ",
+      "game": "genshin-impact",
+      "foundAt": "2026-09-01T06:01:13Z",
+      "source": {
+        "name": "hoyo-codes",
+        "url": "https://hoyo-codes.seria.moe/codes"
+      },
+      "reward": "30 Primogem + 10000 Mora + 3 Hero's Wit + 3 Mystic Enhancement Ore"
+    },
     {
       "id": "afk-journey-afkjn2024",
       "code": "AFKJN2024",
