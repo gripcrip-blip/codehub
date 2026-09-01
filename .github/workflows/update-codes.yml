@@ -56,8 +56,14 @@ jobs:
         run: npm ci
 
       - name: Deploy to Netlify
+        id: netlify
         if: steps.commit.outputs.changed == 'true'
+        continue-on-error: true
         run: npx netlify-cli@27.4.1 deploy --prod --build
         env:
           NETLIFY_AUTH_TOKEN: ${{ secrets.NETLIFY_AUTH_TOKEN }}
           NETLIFY_SITE_ID: ${{ secrets.NETLIFY_SITE_ID }}
+
+      - name: Note paused production deploys
+        if: steps.commit.outputs.changed == 'true' && steps.netlify.outcome == 'failure'
+        run: echo "::warning::Netlify production deploys are paused (operational credits). Codes were still committed to GitHub."

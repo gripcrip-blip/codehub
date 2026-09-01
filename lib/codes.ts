@@ -14,10 +14,14 @@ export function getUpdatedAt(): string {
   return data.updatedAt;
 }
 
-export function getAllCodes(): PromoCode[] {
-  return [...data.codes].sort(
+export function sortCodes(codes: PromoCode[]): PromoCode[] {
+  return [...codes].sort(
     (a, b) => new Date(b.foundAt).getTime() - new Date(a.foundAt).getTime(),
   );
+}
+
+export function getAllCodes(): PromoCode[] {
+  return sortCodes(data.codes);
 }
 
 export function getCodesByGame(gameSlug: string): PromoCode[] {

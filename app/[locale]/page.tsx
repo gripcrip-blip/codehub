@@ -1,11 +1,9 @@
 import { DisclaimerBanner } from "@/components/Disclaimer";
 import { GameSelector } from "@/components/GameSelector";
-import { PromoCodeCard } from "@/components/PromoCodeCard";
-import { games } from "@/data/games";
+import { HomeLatestCodes } from "@/components/HomeLatestCodes";
 import { getAllCodes } from "@/lib/codes";
 import { getMessages } from "@/lib/i18n";
 import { resolveLocale } from "@/lib/locale";
-import { gameCodesPath, localizedPath } from "@/lib/paths";
 import { pageMetadata } from "@/lib/seo";
 import type { Metadata } from "next";
 
@@ -33,7 +31,6 @@ export default async function HomePage({
   const { locale: raw } = await params;
   const locale = resolveLocale(raw);
   const messages = getMessages(locale);
-  const latest = getAllCodes().slice(0, 6);
 
   return (
     <div>
@@ -65,25 +62,11 @@ export default async function HomePage({
         <h2 className="text-lg font-medium text-foreground">
           {messages.codes.homeLatest}
         </h2>
-        <div className="mt-4 grid gap-3">
-          {latest.map((code) => {
-            const game = games.find((item) => item.slug === code.game);
-            return (
-              <PromoCodeCard
-                key={code.id}
-                code={code}
-                locale={locale}
-                messages={messages}
-                gameName={game?.name}
-                gameHref={
-                  game
-                    ? localizedPath(locale, gameCodesPath(game))
-                    : undefined
-                }
-              />
-            );
-          })}
-        </div>
+        <HomeLatestCodes
+          locale={locale}
+          messages={messages}
+          initial={getAllCodes()}
+        />
       </section>
 
       <div className="mt-10">

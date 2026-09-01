@@ -1,5 +1,6 @@
 "use client";
 
+import { useLiveCodes } from "@/components/CodesProvider";
 import { GameIcon } from "@/components/GameIcon";
 import { games } from "@/data/games";
 import { displayReward } from "@/lib/codes";
@@ -18,6 +19,7 @@ type SearchProps = {
 };
 
 export function Search({ locale, messages, codes }: SearchProps) {
+  const liveCodes = useLiveCodes(codes);
   const [query, setQuery] = useState("");
   const [open, setOpen] = useState(false);
   const rootRef = useRef<HTMLDivElement>(null);
@@ -40,14 +42,14 @@ export function Search({ locale, messages, codes }: SearchProps) {
 
   const codeResults = useMemo(() => {
     if (!q) return [];
-    return codes
+    return liveCodes
       .filter(
         (code) =>
           code.code.toLowerCase().includes(q) ||
           code.reward?.toLowerCase().includes(q),
       )
       .slice(0, 8);
-  }, [codes, q]);
+  }, [liveCodes, q]);
 
   const hasResults = gameResults.length > 0 || codeResults.length > 0;
 

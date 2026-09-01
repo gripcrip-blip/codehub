@@ -1,10 +1,9 @@
 import { Breadcrumbs } from "@/components/Breadcrumbs";
 import { DisclaimerBanner } from "@/components/Disclaimer";
-import { EmptyState } from "@/components/EmptyState";
-import { PromoCodeCard } from "@/components/PromoCodeCard";
+import { GameCodeList } from "@/components/GameCodeList";
 import { RedeemGuide } from "@/components/RedeemGuide";
 import { games, getGameByCodesSlug } from "@/data/games";
-import { getCodesByGame, splitCodes } from "@/lib/codes";
+import { getCodesByGame } from "@/lib/codes";
 import { getMessages, t } from "@/lib/i18n";
 import { resolveLocale } from "@/lib/locale";
 import { locales } from "@/lib/locales";
@@ -51,7 +50,6 @@ export default async function GamePage({
 
   const messages = getMessages(locale);
   const codes = getCodesByGame(game.slug);
-  const { latest, history } = splitCodes(codes);
   const label = labeledGameName(game, gameAlias(messages, game.slug));
 
   return (
@@ -75,49 +73,12 @@ export default async function GamePage({
         <DisclaimerBanner text={messages.codes.disclaimer} />
       </div>
 
-      <section className="mt-8">
-        <h2 className="text-lg font-medium text-foreground">
-          {messages.codes.latest}
-        </h2>
-        {latest.length === 0 ? (
-          <div className="mt-4">
-            <EmptyState
-              title={messages.codes.emptyTitle}
-              body={messages.codes.emptyBody}
-            />
-          </div>
-        ) : (
-          <div className="mt-4 grid gap-3">
-            {latest.map((code) => (
-              <PromoCodeCard
-                key={code.id}
-                code={code}
-                locale={locale}
-                messages={messages}
-              />
-            ))}
-          </div>
-        )}
-      </section>
-
-      {history.length > 0 ? (
-        <section className="mt-10">
-          <h2 className="text-lg font-medium text-foreground">
-            {messages.codes.recentlyFound}
-          </h2>
-          <div className="mt-4 grid gap-2">
-            {history.map((code) => (
-              <PromoCodeCard
-                key={code.id}
-                code={code}
-                locale={locale}
-                messages={messages}
-                compact
-              />
-            ))}
-          </div>
-        </section>
-      ) : null}
+      <GameCodeList
+        gameSlug={game.slug}
+        locale={locale}
+        messages={messages}
+        initial={codes}
+      />
 
       <RedeemGuide game={game} locale={locale} messages={messages} />
     </div>
