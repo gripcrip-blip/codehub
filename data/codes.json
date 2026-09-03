@@ -1,7 +1,18 @@
 {
   "demo": false,
-  "updatedAt": "2026-09-02T06:00:51Z",
+  "updatedAt": "2026-09-03T06:03:50Z",
   "codes": [
+    {
+      "id": "genshin-impact-yoal3v36xhs7",
+      "code": "YOAL3V36XHS7",
+      "game": "genshin-impact",
+      "foundAt": "2026-09-03T06:03:47Z",
+      "source": {
+        "name": "hoyo-codes",
+        "url": "https://hoyo-codes.seria.moe/codes"
+      },
+      "reward": "10000 Mora + 10 Adventurer's Experience + 5 Fine Enhancement Ore + 5 Jueyun Chili Chicken + 5 Stir-Fried Fish Noodles"
+    },
     {
       "id": "honkai-star-rail-8smsvjwjm7zt",
       "code": "8SMSVJWJM7ZT",
