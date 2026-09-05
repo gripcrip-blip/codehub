@@ -1,6 +1,6 @@
 {
   "demo": false,
-  "updatedAt": "2026-09-03T06:03:50Z",
+  "updatedAt": "2026-09-05T06:00:49Z",
   "codes": [
     {
       "id": "genshin-impact-yoal3v36xhs7",
@@ -1342,7 +1342,8 @@
       "source": {
         "name": "hoyo-codes",
         "url": "https://hoyo-codes.seria.moe/codes"
-      }
+      },
+      "reward": "60 primogems and five adventurer's experience"
     },
     {
       "id": "genshin-impact-xvizdh2b9wgx",
