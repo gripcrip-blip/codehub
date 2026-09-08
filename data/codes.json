@@ -1,6 +1,6 @@
 {
   "demo": false,
-  "updatedAt": "2026-09-05T06:00:49Z",
+  "updatedAt": "2026-09-08T06:00:47Z",
   "codes": [
     {
       "id": "genshin-impact-yoal3v36xhs7",
@@ -21,7 +21,8 @@
       "source": {
         "name": "hoyo-codes",
         "url": "https://hoyo-codes.seria.moe/codes"
-      }
+      },
+      "reward": "50 stellar jade and 10k credits"
     },
     {
       "id": "genshin-impact-dugodwkrhakdnj",
