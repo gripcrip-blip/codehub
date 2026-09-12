@@ -1,6 +1,6 @@
 {
   "demo": false,
-  "updatedAt": "2026-09-11T06:00:50Z",
+  "updatedAt": "2026-09-12T06:00:58Z",
   "codes": [
     {
       "id": "zenless-zone-zero-zzzink32",
@@ -10,7 +10,8 @@
       "source": {
         "name": "hoyo-codes",
         "url": "https://hoyo-codes.seria.moe/codes"
-      }
+      },
+      "reward": "20 Polychrome + 2,222 Denny"
     },
     {
       "id": "zenless-zone-zero-zzzgrind32",
