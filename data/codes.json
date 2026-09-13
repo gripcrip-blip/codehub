@@ -1,7 +1,49 @@
 {
   "demo": false,
-  "updatedAt": "2026-09-12T06:00:58Z",
+  "updatedAt": "2026-09-13T06:01:02Z",
   "codes": [
+    {
+      "id": "honkai-star-rail-waveflairstyle",
+      "code": "WAVEFLAIRSTYLE",
+      "game": "honkai-star-rail",
+      "foundAt": "2026-09-13T06:00:59Z",
+      "source": {
+        "name": "hoyo-codes",
+        "url": "https://hoyo-codes.seria.moe/codes"
+      }
+    },
+    {
+      "id": "honkai-star-rail-wa4av2f24pyx",
+      "code": "WA4AV2F24PYX",
+      "game": "honkai-star-rail",
+      "foundAt": "2026-09-13T06:00:59Z",
+      "source": {
+        "name": "hoyo-codes",
+        "url": "https://hoyo-codes.seria.moe/codes"
+      }
+    },
+    {
+      "id": "genshin-impact-vesna0923",
+      "code": "VESNA0923",
+      "game": "genshin-impact",
+      "foundAt": "2026-09-13T06:00:59Z",
+      "source": {
+        "name": "hoyo-codes",
+        "url": "https://hoyo-codes.seria.moe/codes"
+      },
+      "reward": "100 Primogem + 5 Hero's Wit"
+    },
+    {
+      "id": "genshin-impact-primadonna",
+      "code": "PRIMADONNA",
+      "game": "genshin-impact",
+      "foundAt": "2026-09-13T06:00:59Z",
+      "source": {
+        "name": "hoyo-codes",
+        "url": "https://hoyo-codes.seria.moe/codes"
+      },
+      "reward": "100 Primogem + 50000 Mora"
+    },
     {
       "id": "zenless-zone-zero-zzzink32",
       "code": "ZZZINK32",
