@@ -1,7 +1,29 @@
 {
   "demo": false,
-  "updatedAt": "2026-09-13T06:01:02Z",
+  "updatedAt": "2026-09-14T06:00:44Z",
   "codes": [
+    {
+      "id": "zenless-zone-zero-zzzvoid32",
+      "code": "ZZZVOID32",
+      "game": "zenless-zone-zero",
+      "foundAt": "2026-09-14T06:00:41Z",
+      "source": {
+        "name": "hoyo-codes",
+        "url": "https://hoyo-codes.seria.moe/codes"
+      },
+      "reward": "20 Polychrome + 2,222 Denny"
+    },
+    {
+      "id": "genshin-impact-y6jymkv6jksl",
+      "code": "Y6JYMKV6JKSL",
+      "game": "genshin-impact",
+      "foundAt": "2026-09-14T06:00:41Z",
+      "source": {
+        "name": "hoyo-codes",
+        "url": "https://hoyo-codes.seria.moe/codes"
+      },
+      "reward": "60 Primogem + 5 Adventurer's Experience"
+    },
     {
       "id": "honkai-star-rail-waveflairstyle",
       "code": "WAVEFLAIRSTYLE",
