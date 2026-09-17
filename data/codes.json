@@ -1,7 +1,17 @@
 {
   "demo": false,
-  "updatedAt": "2026-09-14T06:00:44Z",
+  "updatedAt": "2026-09-17T06:01:59Z",
   "codes": [
+    {
+      "id": "genshin-impact-gs71xynsyj",
+      "code": "GS71XYNSYJ",
+      "game": "genshin-impact",
+      "foundAt": "2026-09-17T06:00:55Z",
+      "source": {
+        "name": "hoyo-codes",
+        "url": "https://hoyo-codes.seria.moe/codes"
+      }
+    },
     {
       "id": "zenless-zone-zero-zzzvoid32",
       "code": "ZZZVOID32",
