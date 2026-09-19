@@ -1,7 +1,18 @@
 {
   "demo": false,
-  "updatedAt": "2026-09-17T06:01:59Z",
+  "updatedAt": "2026-09-19T06:00:50Z",
   "codes": [
+    {
+      "id": "genshin-impact-gs71xavwds",
+      "code": "GS71XAVWDS",
+      "game": "genshin-impact",
+      "foundAt": "2026-09-19T06:00:45Z",
+      "source": {
+        "name": "hoyo-codes",
+        "url": "https://hoyo-codes.seria.moe/codes"
+      },
+      "reward": "30000 Mora + 3 Hero's Wit + 5 Mystic Enhancement Ore"
+    },
     {
       "id": "genshin-impact-gs71xynsyj",
       "code": "GS71XYNSYJ",
