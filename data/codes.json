@@ -1,7 +1,40 @@
 {
   "demo": false,
-  "updatedAt": "2026-09-20T06:00:45Z",
+  "updatedAt": "2026-09-21T06:00:48Z",
   "codes": [
+    {
+      "id": "honkai-star-rail-malsv2f247fp",
+      "code": "MALSV2F247FP",
+      "game": "honkai-star-rail",
+      "foundAt": "2026-09-21T06:00:44Z",
+      "source": {
+        "name": "hoyo-codes",
+        "url": "https://hoyo-codes.seria.moe/codes"
+      },
+      "reward": "Stellar Jade x100, Refined Aether x4"
+    },
+    {
+      "id": "honkai-star-rail-ka5sv3fjm7wx",
+      "code": "KA5SV3FJM7WX",
+      "game": "honkai-star-rail",
+      "foundAt": "2026-09-21T06:00:44Z",
+      "source": {
+        "name": "hoyo-codes",
+        "url": "https://hoyo-codes.seria.moe/codes"
+      },
+      "reward": "Stellar Jade x100, Credit x50000"
+    },
+    {
+      "id": "honkai-star-rail-7s4ad2x35ne3",
+      "code": "7S4AD2X35NE3",
+      "game": "honkai-star-rail",
+      "foundAt": "2026-09-21T06:00:44Z",
+      "source": {
+        "name": "hoyo-codes",
+        "url": "https://hoyo-codes.seria.moe/codes"
+      },
+      "reward": "Stellar Jade x100, Traveler's Guide x5"
+    },
     {
       "id": "wuthering-waves-wakingmoon",
       "code": "WAKINGMOON",
