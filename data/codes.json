@@ -1,7 +1,39 @@
 {
   "demo": false,
-  "updatedAt": "2026-09-21T06:00:48Z",
+  "updatedAt": "2026-09-24T10:33:29Z",
   "codes": [
+    {
+      "id": "genshin-impact-vesnaonpatrol",
+      "code": "VESNAONPATROL",
+      "game": "genshin-impact",
+      "foundAt": "2026-09-24T10:33:25Z",
+      "source": {
+        "name": "hoyo-codes",
+        "url": "https://hoyo-codes.seria.moe/codes"
+      },
+      "reward": "40 Primogem + 20000 Mora + 3 Hero's Wit"
+    },
+    {
+      "id": "genshin-impact-pldxi8vfki7c",
+      "code": "PLDXI8VFKI7C",
+      "game": "genshin-impact",
+      "foundAt": "2026-09-24T10:33:25Z",
+      "source": {
+        "name": "hoyo-codes",
+        "url": "https://hoyo-codes.seria.moe/codes"
+      }
+    },
+    {
+      "id": "genshin-impact-epic2026",
+      "code": "EPIC2026",
+      "game": "genshin-impact",
+      "foundAt": "2026-09-24T10:33:25Z",
+      "source": {
+        "name": "hoyo-codes",
+        "url": "https://hoyo-codes.seria.moe/codes"
+      },
+      "reward": "40 primogems, five hero's wit, and 20k mora"
+    },
     {
       "id": "honkai-star-rail-malsv2f247fp",
       "code": "MALSV2F247FP",
