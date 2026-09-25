@@ -1,7 +1,27 @@
 {
   "demo": false,
-  "updatedAt": "2026-09-24T10:33:29Z",
+  "updatedAt": "2026-09-25T10:36:43Z",
   "codes": [
+    {
+      "id": "genshin-impact-pnkz3wlnn8g6",
+      "code": "PNKZ3WLNN8G6",
+      "game": "genshin-impact",
+      "foundAt": "2026-09-25T10:36:39Z",
+      "source": {
+        "name": "hoyo-codes",
+        "url": "https://hoyo-codes.seria.moe/codes"
+      }
+    },
+    {
+      "id": "genshin-impact-datg5hg1pl89",
+      "code": "DATG5HG1PL89",
+      "game": "genshin-impact",
+      "foundAt": "2026-09-25T10:36:39Z",
+      "source": {
+        "name": "hoyo-codes",
+        "url": "https://hoyo-codes.seria.moe/codes"
+      }
+    },
     {
       "id": "genshin-impact-vesnaonpatrol",
       "code": "VESNAONPATROL",
