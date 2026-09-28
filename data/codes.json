@@ -1,7 +1,17 @@
 {
   "demo": false,
-  "updatedAt": "2026-09-25T10:36:43Z",
+  "updatedAt": "2026-09-28T12:03:33Z",
   "codes": [
+    {
+      "id": "honkai-star-rail-pearlappraise",
+      "code": "PEARLAPPRAISE",
+      "game": "honkai-star-rail",
+      "foundAt": "2026-09-28T12:03:30Z",
+      "source": {
+        "name": "hoyo-codes",
+        "url": "https://hoyo-codes.seria.moe/codes"
+      }
+    },
     {
       "id": "genshin-impact-pnkz3wlnn8g6",
       "code": "PNKZ3WLNN8G6",
