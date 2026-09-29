@@ -1,7 +1,18 @@
 {
   "demo": false,
-  "updatedAt": "2026-09-28T12:03:33Z",
+  "updatedAt": "2026-09-29T11:37:25Z",
   "codes": [
+    {
+      "id": "genshin-impact-operacollab",
+      "code": "OPERACOLLAB",
+      "game": "genshin-impact",
+      "foundAt": "2026-09-29T11:37:20Z",
+      "source": {
+        "name": "hoyo-codes",
+        "url": "https://hoyo-codes.seria.moe/codes"
+      },
+      "reward": "30 Primogem + 20000 Mora + 2 Hero's Wit"
+    },
     {
       "id": "honkai-star-rail-pearlappraise",
       "code": "PEARLAPPRAISE",
