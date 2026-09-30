@@ -1,7 +1,17 @@
 {
   "demo": false,
-  "updatedAt": "2026-09-29T11:37:25Z",
+  "updatedAt": "2026-09-30T11:25:07Z",
   "codes": [
+    {
+      "id": "honkai-star-rail-rt4bpna8fbs3",
+      "code": "RT4BPNA8FBS3",
+      "game": "honkai-star-rail",
+      "foundAt": "2026-09-30T11:25:03Z",
+      "source": {
+        "name": "hoyo-codes",
+        "url": "https://hoyo-codes.seria.moe/codes"
+      }
+    },
     {
       "id": "genshin-impact-operacollab",
       "code": "OPERACOLLAB",
