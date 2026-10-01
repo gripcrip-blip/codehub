@@ -1,7 +1,17 @@
 {
   "demo": false,
-  "updatedAt": "2026-09-30T11:25:07Z",
+  "updatedAt": "2026-10-01T11:52:24Z",
   "codes": [
+    {
+      "id": "genshin-impact-neei8a8341ow",
+      "code": "NEEI8A8341OW",
+      "game": "genshin-impact",
+      "foundAt": "2026-10-01T11:52:19Z",
+      "source": {
+        "name": "hoyo-codes",
+        "url": "https://hoyo-codes.seria.moe/codes"
+      }
+    },
     {
       "id": "honkai-star-rail-rt4bpna8fbs3",
       "code": "RT4BPNA8FBS3",
