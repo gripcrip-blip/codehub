@@ -1,7 +1,17 @@
 {
   "demo": false,
-  "updatedAt": "2026-10-01T11:52:24Z",
+  "updatedAt": "2026-10-03T10:41:21Z",
   "codes": [
+    {
+      "id": "genshin-impact-6ls3f3ls5k87",
+      "code": "6LS3F3LS5K87",
+      "game": "genshin-impact",
+      "foundAt": "2026-10-03T10:41:17Z",
+      "source": {
+        "name": "hoyo-codes",
+        "url": "https://hoyo-codes.seria.moe/codes"
+      }
+    },
     {
       "id": "genshin-impact-neei8a8341ow",
       "code": "NEEI8A8341OW",
