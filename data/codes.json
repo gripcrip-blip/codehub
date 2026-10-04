@@ -1,6 +1,6 @@
 {
   "demo": false,
-  "updatedAt": "2026-10-03T10:41:21Z",
+  "updatedAt": "2026-10-04T11:22:30Z",
   "codes": [
     {
       "id": "genshin-impact-6ls3f3ls5k87",
@@ -10,7 +10,8 @@
       "source": {
         "name": "hoyo-codes",
         "url": "https://hoyo-codes.seria.moe/codes"
-      }
+      },
+      "reward": "20 Primogem + 160 Geode of Replication"
     },
     {
       "id": "genshin-impact-neei8a8341ow",
@@ -61,7 +62,8 @@
       "source": {
         "name": "hoyo-codes",
         "url": "https://hoyo-codes.seria.moe/codes"
-      }
+      },
+      "reward": "5 Teachings of Charity + 5 Teachings of Fortitude + 5 Teachings of Glory"
     },
     {
       "id": "genshin-impact-datg5hg1pl89",
@@ -71,7 +73,8 @@
       "source": {
         "name": "hoyo-codes",
         "url": "https://hoyo-codes.seria.moe/codes"
-      }
+      },
+      "reward": "10000 Mora + 10 Adventurer's Experience + 5 Fine Enhancement Ore + 5 Stir-Fried Fish Noodles + 5 Jueyun Chili Chicken"
     },
     {
       "id": "genshin-impact-vesnaonpatrol",
