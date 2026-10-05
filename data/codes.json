@@ -1,7 +1,18 @@
 {
   "demo": false,
-  "updatedAt": "2026-10-04T11:22:30Z",
+  "updatedAt": "2026-10-05T12:44:25Z",
   "codes": [
+    {
+      "id": "genshin-impact-neeijb764ca3",
+      "code": "NEEIJB764CA3",
+      "game": "genshin-impact",
+      "foundAt": "2026-10-05T12:44:19Z",
+      "source": {
+        "name": "hoyo-codes",
+        "url": "https://hoyo-codes.seria.moe/codes"
+      },
+      "reward": "60 Primogem"
+    },
     {
       "id": "genshin-impact-6ls3f3ls5k87",
       "code": "6LS3F3LS5K87",
@@ -31,7 +42,8 @@
       "source": {
         "name": "hoyo-codes",
         "url": "https://hoyo-codes.seria.moe/codes"
-      }
+      },
+      "reward": "50 stellar jade and 10k credits"
     },
     {
       "id": "genshin-impact-operacollab",
@@ -52,7 +64,8 @@
       "source": {
         "name": "hoyo-codes",
         "url": "https://hoyo-codes.seria.moe/codes"
-      }
+      },
+      "reward": "three traveler's guides and two cold jokes"
     },
     {
       "id": "genshin-impact-pnkz3wlnn8g6",
