@@ -1,7 +1,17 @@
 {
   "demo": false,
-  "updatedAt": "2026-10-05T12:44:25Z",
+  "updatedAt": "2026-10-09T12:08:06Z",
   "codes": [
+    {
+      "id": "zenless-zone-zero-jrny2sky",
+      "code": "JRNY2SKY",
+      "game": "zenless-zone-zero",
+      "foundAt": "2026-10-09T12:08:00Z",
+      "source": {
+        "name": "hoyo-codes",
+        "url": "https://hoyo-codes.seria.moe/codes"
+      }
+    },
     {
       "id": "genshin-impact-neeijb764ca3",
       "code": "NEEIJB764CA3",
