@@ -1,6 +1,6 @@
 {
   "demo": false,
-  "updatedAt": "2026-10-09T12:08:06Z",
+  "updatedAt": "2026-10-10T11:25:24Z",
   "codes": [
     {
       "id": "zenless-zone-zero-jrny2sky",
@@ -10,7 +10,8 @@
       "source": {
         "name": "hoyo-codes",
         "url": "https://hoyo-codes.seria.moe/codes"
-      }
+      },
+      "reward": "300 Polychrome + 2 Senior Investigator Log + 3 W-Engine Energy Module + 30,000 Denny"
     },
     {
       "id": "genshin-impact-neeijb764ca3",
