@@ -1,7 +1,17 @@
 {
   "demo": false,
-  "updatedAt": "2026-10-15T10:23:49Z",
+  "updatedAt": "2026-10-21T10:39:12Z",
   "codes": [
+    {
+      "id": "honkai-star-rail-dslspnbreasp",
+      "code": "DSLSPNBREASP",
+      "game": "honkai-star-rail",
+      "foundAt": "2026-10-21T10:39:07Z",
+      "source": {
+        "name": "hoyo-codes",
+        "url": "https://hoyo-codes.seria.moe/codes"
+      }
+    },
     {
       "id": "genshin-impact-oktcv81f9h8d",
       "code": "OKTCV81F9H8D",
