@@ -1,7 +1,27 @@
 {
   "demo": false,
-  "updatedAt": "2026-10-21T10:39:12Z",
+  "updatedAt": "2026-10-23T10:35:13Z",
   "codes": [
+    {
+      "id": "zenless-zone-zero-sunbringer",
+      "code": "SUNBRINGER",
+      "game": "zenless-zone-zero",
+      "foundAt": "2026-10-23T10:34:10Z",
+      "source": {
+        "name": "hoyo-codes",
+        "url": "https://hoyo-codes.seria.moe/codes"
+      }
+    },
+    {
+      "id": "zenless-zone-zero-hollowrun33",
+      "code": "HOLLOWRUN33",
+      "game": "zenless-zone-zero",
+      "foundAt": "2026-10-23T10:34:10Z",
+      "source": {
+        "name": "hoyo-codes",
+        "url": "https://hoyo-codes.seria.moe/codes"
+      }
+    },
     {
       "id": "honkai-star-rail-dslspnbreasp",
       "code": "DSLSPNBREASP",
