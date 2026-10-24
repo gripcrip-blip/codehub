@@ -1,7 +1,51 @@
 {
   "demo": false,
-  "updatedAt": "2026-10-23T10:35:13Z",
+  "updatedAt": "2026-10-24T09:51:46Z",
   "codes": [
+    {
+      "id": "genshin-impact-pj2kebraysrm",
+      "code": "PJ2KEBRAYSRM",
+      "game": "genshin-impact",
+      "foundAt": "2026-10-24T09:51:42Z",
+      "source": {
+        "name": "hoyo-codes",
+        "url": "https://hoyo-codes.seria.moe/codes"
+      },
+      "reward": "60 Primogem + 5 Adventurer's Experience"
+    },
+    {
+      "id": "genshin-impact-phototime",
+      "code": "PHOTOTIME",
+      "game": "genshin-impact",
+      "foundAt": "2026-10-24T09:51:42Z",
+      "source": {
+        "name": "hoyo-codes",
+        "url": "https://hoyo-codes.seria.moe/codes"
+      },
+      "reward": "100 Primogem + 50000 Mora"
+    },
+    {
+      "id": "genshin-impact-hourofruin",
+      "code": "HOUROFRUIN",
+      "game": "genshin-impact",
+      "foundAt": "2026-10-24T09:51:42Z",
+      "source": {
+        "name": "hoyo-codes",
+        "url": "https://hoyo-codes.seria.moe/codes"
+      },
+      "reward": "100 Primogem + 10 Mystic Enhancement Ore"
+    },
+    {
+      "id": "genshin-impact-expertmitya",
+      "code": "EXPERTMITYA",
+      "game": "genshin-impact",
+      "foundAt": "2026-10-24T09:51:42Z",
+      "source": {
+        "name": "hoyo-codes",
+        "url": "https://hoyo-codes.seria.moe/codes"
+      },
+      "reward": "100 Primogem + 5 Hero's Wit"
+    },
     {
       "id": "zenless-zone-zero-sunbringer",
       "code": "SUNBRINGER",
@@ -10,7 +54,8 @@
       "source": {
         "name": "hoyo-codes",
         "url": "https://hoyo-codes.seria.moe/codes"
-      }
+      },
+      "reward": "30 Polychrome"
     },
     {
       "id": "zenless-zone-zero-hollowrun33",
@@ -20,7 +65,8 @@
       "source": {
         "name": "hoyo-codes",
         "url": "https://hoyo-codes.seria.moe/codes"
-      }
+      },
+      "reward": "20 Polychrome + 2,222 Denny"
     },
     {
       "id": "honkai-star-rail-dslspnbreasp",
@@ -40,7 +86,8 @@
       "source": {
         "name": "hoyo-codes",
         "url": "https://hoyo-codes.seria.moe/codes"
-      }
+      },
+      "reward": "10000 Mora + 10 Adventurer's Experience + 5 Fine Enhancement Ore + 5 Stir-Fried Fish Noodles + 5 Jueyun Chili Chicken"
     },
     {
       "id": "zenless-zone-zero-jrny2sky",
