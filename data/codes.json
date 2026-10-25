@@ -1,7 +1,29 @@
 {
   "demo": false,
-  "updatedAt": "2026-10-24T09:51:46Z",
+  "updatedAt": "2026-10-25T10:12:28Z",
   "codes": [
+    {
+      "id": "zenless-zone-zero-levelup33",
+      "code": "LEVELUP33",
+      "game": "zenless-zone-zero",
+      "foundAt": "2026-10-25T10:12:24Z",
+      "source": {
+        "name": "hoyo-codes",
+        "url": "https://hoyo-codes.seria.moe/codes"
+      },
+      "reward": "20 Polychrome + 2,222 Denny"
+    },
+    {
+      "id": "zenless-zone-zero-inkshift33",
+      "code": "INKSHIFT33",
+      "game": "zenless-zone-zero",
+      "foundAt": "2026-10-25T10:12:24Z",
+      "source": {
+        "name": "hoyo-codes",
+        "url": "https://hoyo-codes.seria.moe/codes"
+      },
+      "reward": "20 Polychrome + 2,222 Denny"
+    },
     {
       "id": "genshin-impact-pj2kebraysrm",
       "code": "PJ2KEBRAYSRM",
