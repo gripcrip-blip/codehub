@@ -1,6 +1,6 @@
 {
   "demo": false,
-  "updatedAt": "2026-10-25T10:12:28Z",
+  "updatedAt": "2026-10-26T11:35:55Z",
   "codes": [
     {
       "id": "zenless-zone-zero-levelup33",
@@ -98,7 +98,8 @@
       "source": {
         "name": "hoyo-codes",
         "url": "https://hoyo-codes.seria.moe/codes"
-      }
+      },
+      "reward": "50 stellar jade and 10k credits"
     },
     {
       "id": "genshin-impact-oktcv81f9h8d",
