@@ -1,7 +1,40 @@
 {
   "demo": false,
-  "updatedAt": "2026-10-26T11:35:55Z",
+  "updatedAt": "2026-10-31T11:16:07Z",
   "codes": [
+    {
+      "id": "honkai-star-rail-nevergonnamake",
+      "code": "NEVERGONNAMAKE",
+      "game": "honkai-star-rail",
+      "foundAt": "2026-10-31T11:16:04Z",
+      "source": {
+        "name": "hoyo-codes",
+        "url": "https://hoyo-codes.seria.moe/codes"
+      },
+      "reward": "Stellar Jade x100, Traveler's Guide x5"
+    },
+    {
+      "id": "honkai-star-rail-nevergonnagive",
+      "code": "NEVERGONNAGIVE",
+      "game": "honkai-star-rail",
+      "foundAt": "2026-10-31T11:16:04Z",
+      "source": {
+        "name": "hoyo-codes",
+        "url": "https://hoyo-codes.seria.moe/codes"
+      },
+      "reward": "Stellar Jade x100, Credit x50000"
+    },
+    {
+      "id": "honkai-star-rail-ahablessyou",
+      "code": "AHABLESSYOU",
+      "game": "honkai-star-rail",
+      "foundAt": "2026-10-31T11:16:04Z",
+      "source": {
+        "name": "hoyo-codes",
+        "url": "https://hoyo-codes.seria.moe/codes"
+      },
+      "reward": "Stellar Jade x100, Refined Aether x4"
+    },
     {
       "id": "zenless-zone-zero-levelup33",
       "code": "LEVELUP33",
