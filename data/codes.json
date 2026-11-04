@@ -1,7 +1,40 @@
 {
   "demo": false,
-  "updatedAt": "2026-10-31T11:16:07Z",
+  "updatedAt": "2026-11-04T13:19:05Z",
   "codes": [
+    {
+      "id": "genshin-impact-mijiq23v2437",
+      "code": "MIJIQ23V2437",
+      "game": "genshin-impact",
+      "foundAt": "2026-11-04T13:19:00Z",
+      "source": {
+        "name": "hoyo-codes",
+        "url": "https://hoyo-codes.seria.moe/codes"
+      },
+      "reward": "10000 Mora + 10 Adventurer's Experience + 5 Fine Enhancement Ore + 5 Stir-Fried Fish Noodles + 5 Jueyun Chili Chicken"
+    },
+    {
+      "id": "genshin-impact-keepupwithmitya",
+      "code": "KEEPUPWITHMITYA",
+      "game": "genshin-impact",
+      "foundAt": "2026-11-04T13:19:00Z",
+      "source": {
+        "name": "hoyo-codes",
+        "url": "https://hoyo-codes.seria.moe/codes"
+      },
+      "reward": "3 Guide to Charity + 3 \"Energy-Replenishing Meal\" + 3 Kristallfold"
+    },
+    {
+      "id": "genshin-impact-cdof4x83h7x2",
+      "code": "CDOF4X83H7X2",
+      "game": "genshin-impact",
+      "foundAt": "2026-11-04T13:19:00Z",
+      "source": {
+        "name": "hoyo-codes",
+        "url": "https://hoyo-codes.seria.moe/codes"
+      },
+      "reward": "10000 Mora + 10 Adventurer's Experience + 5 Fine Enhancement Ore + 5 Stir-Fried Fish Noodles + 5 Jueyun Chili Chicken"
+    },
     {
       "id": "honkai-star-rail-nevergonnamake",
       "code": "NEVERGONNAMAKE",
