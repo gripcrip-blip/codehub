@@ -1,7 +1,18 @@
 {
   "demo": false,
-  "updatedAt": "2026-11-12T14:01:27Z",
+  "updatedAt": "2026-11-14T12:33:17Z",
   "codes": [
+    {
+      "id": "genshin-impact-qyjwfb784mfl",
+      "code": "QYJWFB784MFL",
+      "game": "genshin-impact",
+      "foundAt": "2026-11-14T12:33:12Z",
+      "source": {
+        "name": "hoyo-codes",
+        "url": "https://hoyo-codes.seria.moe/codes"
+      },
+      "reward": "60 Primogem + 5 Adventurer's Experience"
+    },
     {
       "id": "honkai-star-rail-ns4du8aagxbp",
       "code": "NS4DU8AAGXBP",
