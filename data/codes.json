@@ -1,7 +1,18 @@
 {
   "demo": false,
-  "updatedAt": "2026-11-14T12:33:17Z",
+  "updatedAt": "2026-11-16T14:02:53Z",
   "codes": [
+    {
+      "id": "genshin-impact-archonsanswers",
+      "code": "ARCHONSANSWERS",
+      "game": "genshin-impact",
+      "foundAt": "2026-11-16T14:02:48Z",
+      "source": {
+        "name": "hoyo-codes",
+        "url": "https://hoyo-codes.seria.moe/codes"
+      },
+      "reward": "40 Primogem + 3 Hero's Wit + 30,000 Mora"
+    },
     {
       "id": "genshin-impact-qyjwfb784mfl",
       "code": "QYJWFB784MFL",
@@ -21,7 +32,8 @@
       "source": {
         "name": "hoyo-codes",
         "url": "https://hoyo-codes.seria.moe/codes"
-      }
+      },
+      "reward": "50 stellar jade and 10k credits"
     },
     {
       "id": "genshin-impact-mijiq23v2437",
