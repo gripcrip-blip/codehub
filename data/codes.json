@@ -1,7 +1,49 @@
 {
   "demo": false,
-  "updatedAt": "2026-11-16T14:02:53Z",
+  "updatedAt": "2026-11-20T14:25:24Z",
   "codes": [
+    {
+      "id": "zenless-zone-zero-zzzhsrcollab",
+      "code": "ZZZHSRCOLLAB",
+      "game": "zenless-zone-zero",
+      "foundAt": "2026-11-20T14:25:20Z",
+      "source": {
+        "name": "hoyo-codes",
+        "url": "https://hoyo-codes.seria.moe/codes"
+      }
+    },
+    {
+      "id": "zenless-zone-zero-zzz34sunbringer",
+      "code": "ZZZ34SUNBRINGER",
+      "game": "zenless-zone-zero",
+      "foundAt": "2026-11-20T14:25:20Z",
+      "source": {
+        "name": "hoyo-codes",
+        "url": "https://hoyo-codes.seria.moe/codes"
+      }
+    },
+    {
+      "id": "zenless-zone-zero-sunchaser",
+      "code": "SUNCHASER",
+      "game": "zenless-zone-zero",
+      "foundAt": "2026-11-20T14:25:20Z",
+      "source": {
+        "name": "hoyo-codes",
+        "url": "https://hoyo-codes.seria.moe/codes"
+      },
+      "reward": "300 Polychrome + 2 Senior Investigator Log + 3 W-Engine Energy Module + 30,000 Denny"
+    },
+    {
+      "id": "genshin-impact-poymansxf877",
+      "code": "POYMANSXF877",
+      "game": "genshin-impact",
+      "foundAt": "2026-11-20T14:25:20Z",
+      "source": {
+        "name": "hoyo-codes",
+        "url": "https://hoyo-codes.seria.moe/codes"
+      },
+      "reward": "20 Primogem + 160 Geode of Replication"
+    },
     {
       "id": "genshin-impact-archonsanswers",
       "code": "ARCHONSANSWERS",
