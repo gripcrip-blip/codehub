@@ -1,7 +1,40 @@
 {
   "demo": false,
-  "updatedAt": "2026-11-20T14:25:24Z",
+  "updatedAt": "2026-11-21T13:44:57Z",
   "codes": [
+    {
+      "id": "zenless-zone-zero-levelup34",
+      "code": "LEVELUP34",
+      "game": "zenless-zone-zero",
+      "foundAt": "2026-11-21T13:44:52Z",
+      "source": {
+        "name": "hoyo-codes",
+        "url": "https://hoyo-codes.seria.moe/codes"
+      },
+      "reward": "20 Polychrome + 2,222 Denny"
+    },
+    {
+      "id": "zenless-zone-zero-inkshift34",
+      "code": "INKSHIFT34",
+      "game": "zenless-zone-zero",
+      "foundAt": "2026-11-21T13:44:52Z",
+      "source": {
+        "name": "hoyo-codes",
+        "url": "https://hoyo-codes.seria.moe/codes"
+      },
+      "reward": "20 Polychrome + 2,222 Denny"
+    },
+    {
+      "id": "zenless-zone-zero-hollowrun34",
+      "code": "HOLLOWRUN34",
+      "game": "zenless-zone-zero",
+      "foundAt": "2026-11-21T13:44:52Z",
+      "source": {
+        "name": "hoyo-codes",
+        "url": "https://hoyo-codes.seria.moe/codes"
+      },
+      "reward": "20 Polychrome + 2,222 Denny"
+    },
     {
       "id": "zenless-zone-zero-zzzhsrcollab",
       "code": "ZZZHSRCOLLAB",
@@ -10,7 +43,8 @@
       "source": {
         "name": "hoyo-codes",
         "url": "https://hoyo-codes.seria.moe/codes"
-      }
+      },
+      "reward": "50 Polychrome"
     },
     {
       "id": "zenless-zone-zero-zzz34sunbringer",
@@ -20,7 +54,8 @@
       "source": {
         "name": "hoyo-codes",
         "url": "https://hoyo-codes.seria.moe/codes"
-      }
+      },
+      "reward": "60 Polychrome + 6,666 Denny"
     },
     {
       "id": "zenless-zone-zero-sunchaser",
